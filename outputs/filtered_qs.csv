@@ -1,249 +1,136 @@
 ,text,option_1,option_2,option_3,option_4,N,Type,Order,Keywords
-q48,Which would you rather be?,Normal,Weird,,,52464,N,,preference
-q46,"Would you prefer good things happened, or interesting things?",Good,Interesting,,,52112,N,,preference
-q39,Would you let your children under 13 watch movies with full nudity?,Yes,No,,,26933,O,,sex/intimacy
-q35,"Regardless of future plans, what's more interesting to you right now?",Sex,Love,,,50384,N,,sex/intimacy
-q33,Do you like kissing in public?,Yes,No,,,23004,O,,sex/intimacy
-q28,Would you dump someone simply because they weren't good at sex?,Yes,No,,,30477,O,,sex/intimacy
-q26,Have you ever owned sex toys?,Yes,No,,,25010,O,,sex/intimacy
-q17,Would you date someone just for the sex?,Yes,No,,,38180,O,,sex/intimacy
-q14,Is a guy who's slept with 100 girls a bad person?,Yes,No,,,31127,O,,sex/intimacy
-q13,Is a girl who's slept with 100 guys a bad person?,Yes,No,,,32581,O,,sex/intimacy
-q2,Breast implants?,more cool than pathetic,more pathetic than cool,,,24839,N,,sex/intimacy; preference; opinion
-q496,"When a relationship ends, what's the best thing to do?",Try and be friends with your ex,Go your separate ways,,,23651,O,,sex/intimacy; opinion
-q48947,Is intoxication ever an acceptable excuse for acting stupid?,Yes.,No.,,,27599,O,,opinion
-q48557,Do you find arrogance to be a turn-on?,Yes.,No.,,,25764,O,,preference
-q455,Would the world be a better place if people with low IQs were not allowed to reproduce?,Yes,No,,,35500,O,,politics
-q44,Some religions are more correct than others.,True,False,,,29109,O,,religion/superstition
-q42282,"Some friends invite you to go camping where there are no showers, no toilets, and no services.  The only luxuries would be those you could carry in a pack on your back. Do you go?",Yes.,No.,,,24690,O,,descriptive
-q39185,Which is more offensive: book burning or flag burning?,book burning,flag burning,,,36598,N,,politics
-q154,"In a certain light, wouldn't nuclear war be exciting?","Yes, it would.","No, it wouldn't.",,,50514,O,,opinion
-q146,Choose the better romantic activity:,Kissing in Paris,"Kissing in a tent, in the woods",,,39103,N,,sex/intimacy; preference
-q136,Would you get upset if your girlfriend/boyfriend flirted in front of you?,Yes,No,,,36168,O,,sex/intimacy; preference; descriptive
-q134,Do you think women have an obligation to keep their legs shaved?,Yes,No,,,40673,O,,preference
-q124,Do you work out a lot?,Yes,No,,,26934,O,,descriptive
-q123,Would you strongly prefer to go out with someone of your own skin color / racial background?,Yes,No,,,53312,O,,preference
-q114,"Is it okay to live with someone you're dating, even before you're engaged or married?",Yes,No,,,30969,O,,sex/intimacy; opinion
-q106,Have you ever been married?,Yes,No,,,28994,O,,descriptive
-q105,Do you have a child or children?,Yes,No,,,31097,O,,descriptive
-q91,"Honestly, which do you do more of?",Watch television,Read,,,23830,N,,descriptive
-q87,Is smoking disgusting?,Yes,No,,,47244,O,,opinion
-q86,Do you own a gun?,Yes,No,,,25688,O,,descriptive
-q38230,Would you really like to stay home and spend an entire day (24 hours) in bed (getting up only for the necessities) with your ideal significant other?,Yes.,No.,,,23810,O,,preference
-q359387,"Do you believe morality is universal, or relative?",Universal,Relative,,,34021,N,,opinion
-q358080,What is the most exciting thing about getting to know someone new?,Discovering your shared interests,Discovering their body,,,48981,N,,opinion
-q357,Which makes for a better first date?,Coffee and chit-chat,Drinks and groping,,,26341,N,,sex/intimacy; preference; opinion
-q34094,Do you believe a couple should live together before considering marriage?,Yes,No,,,29905,O,,opinion
-q34,Are you more horny or more lonely?,Horny,Lonely,,,23592,N,,sex/intimacy
-q30903,"If you're in a relationship you expect will last for the rest of your life, is it important to you that it be the most satisfying sexual relationship you have ever had?",Yes,No,,,28849,O,,sex/intimacy
-q307,Do you like wild parties?,Yes,No,,,27957,O,,preference
-q301,Are you annoyed by people who are super logical?,Yes,No,,,35878,O,,preference
-q275,Are you a virgin?,Yes,No,,,29250,O,,sex/intimacy; descriptive
-q226,Which would you rather lose?,the right to bear arms,the right to vote,,,30519,N,,politics; preference
-q219,Gay marraige: should it be legal?,Yes,No,,,33413,O,,religion/superstition
-q213,Are some human lives worth more than others?,Yes,No,,,28215,O,,politics; opinion
-q210,Do you believe in God?,Yes,No,,,35015,O,,religion/superstition
-q209,Will you teach your children to believe in Santa?,Yes,No,,,26138,O,,religion/superstition
-q193,Do you say grace before meals?,Yes,No,,,23814,O,,religion/superstition
-q186,"If you got married, would you change your name?",Yes,No,,,24230,O,,preference; descriptive
-q185,Are you really into Anime (Japanese Animation) movies?,Yes,No,,,23792,O,,descriptive
-q175,Should burning your country's flag be illegal?,Yes,No,,,45720,O,,politics
-q392,"If someone you barely knew asked you how many people you'd had sex with, would you answer?",Yes,No,,,24741,O,,sex/intimacy
-q388,Is it easier to love or to hate?,Love,Hate,,,25471,O,,opinion
-q382,Is long hair on a guy inappropriate?,Yes,No,,,25262,O,,opinion
-q358,Do you know the first name of every person you've ever made out with?,Yes,No,,,24303,O,,sex/intimacy
-q354,Would you be comfortable being poor for the rest of your life?,Yes,No,,,26061,O,,preference; opinion
-q341,"Regardless of whether or not you smoke marijuana, do you think it should be legalized for adults?",Yes,No,,,32473,O,,politics
-q335,Do you (or would you) like to go hunting?,Yes,No,,,25464,O,,preference; descriptive
-q334,Do you usually wear cologne or perfume?,Yes,No,,,23846,O,,descriptive
-q325,"Would you consider having an open relationship (i.e., one where you can see other people)?",Yes,No,,,54443,O,,sex/intimacy; preference
-q324,Orgasms are clearly the most important part of sex.,I agree.,I disagree.,,,34643,O,,sex/intimacy; opinion
-q309,"Have you ever had a true one-night stand? (You met someone, had sex that night, and never contacted each other again.)",Yes,No,,,28425,O,,sex/intimacy; descriptive
-q308,"If you like someone a lot, do you usually ask them out?",Yes,No,,,37597,O,,descriptive
-q294,Which is more important for a good match?,Having similar political beliefs,Having good sex,,,26731,O,,politics; preference; opinion; sex/intimacy
-q28903,Which of these is likely to make you more nervous?,A promising first date,An important interview,,,44454,N,,descriptive; preference
-q27239,It's your first date with someone you recently met. At the end she/he says 'I think I love you.',Scary,Sweet,,,31249,O,,opinion
-q27164,Do you believe that men should be the heads of their households?,Yes,No,,,31355,O,,religion/superstition; opinion
-q27,Which is a bigger deal for you?,Telling someone you really care,Oral sex,,,24749,O,,sex/intimacy
-q26684,Are you the type of person to tell a homeless person to get a job?,Yes,No,,,26014,O,,descriptive
-q220,Do you like to watch sports on television?,Yes,No,,,28763,O,,preference
-q538,Would you ever record a video of yourself having sex?,Yes,No,,,25806,O,,sex/intimacy
-q527,Is marriage a necessity for two people who love each other?,Yes,No,,,35270,O,,sex/intimacy; religion/superstition
-q512,Do you like to dance?,Yes,No,,,23504,O,,preference
-q501,Have you smoked a cigarette in the last 6 months?,Yes,No,,,57123,O,,descriptive
-q499,Could you date someone who used anti-depressants?,Yes,No,,,26238,O,,sex/intimacy; preference
-q491,What would be more likely to bother you in a relationship?,Not enough space,Not enough affection,,,31548,N,,sex/intimacy; preference; descriptive
-q486,Is a welfare system a good idea? Or does taxing for it just take money away from hard-working people who earned it?,Welfare is mostly good,Welfare is mostly bad,,,24191,O,,politics
-q463,"In your ideal sexual encounter, do you take control, or do they?",I take control,They take control,,,28517,O,,sex/intimacy
-q442,"If you don't do anything at all for an entire day, how does that make you feel?",Good,Bad,,,41784,O,,descriptive
-q434,Do you like loud concerts?,Yes,No,,,23610,O,,preference
-q403,Do you enjoy discussing politics?,Yes,No,,,52369,O,,politics; preference; descriptive
-q395,Is it okay for a girl to talk openly about her sexual exploits?,Yes,No,,,29264,O,,sex/intimacy; preference
-q393,Is there a such thing as having had too many sex partners?,Yes,No,,,34232,O,,sex/intimacy
-q963,Is foreplay necessary for good sex?,Yes,No,,,31118,O,,sex/intimacy
-q898,"Is it possible to have a true relationship, friend or otherwise, with someone you've never met in person?",Yes,No,,,23078,O,,sex/intimacy; opinion
-q838,"For you personally, is abortion an option in case of an accidental pregnancy?",Yes,No,,,44461,O,,politics; religion/superstition; opinion
-q784,Would you be okay with your significant other spending a lot of time with one of his/her exes (as a friend)?,Yes,No,,,38166,O,,sex/intimacy; preference
-q763,Do you believe in karma?,Yes,No,,,25417,O,,religion/superstition
-q617,"If evil forces made you choose to either watch tv OR read books for the rest of your life, you would:",watch tv,read books,,,23014,N,,preference
-q614,"If you could have brilliant skill at something, would you prefer:",something practical?,something fun?,,,35755,O,,preference
-q605,"Would you date someone who was looking for true love - but no sex, at all, ever?",Yes,No,,,23360,O,,sex/intimacy
-q594,Can anything be made the subject of a joke?,"Yes, anything can be funny in the right light.","No, some subjects should not be joked about.",,,36996,O,,politics; opinion
-q577,How many dates does it take for a potential significant other to get a good sense of who you are as a person?,Less than five,More than five,,,24163,O,,sex/intimacy
-q553,Do spelling mistakes annoy you?,Yes,No,,,53159,O,,preference
-q546,Would you date a transgender person?,Yes,No,,,25729,O,,sex/intimacy; preference
-q21,Do you enjoy meaningless sex?,Yes,No,,,31024,O,,sex/intimacy
-q19737,Could you live a life full of traveling?,Yes,No,,,24187,O,,descriptive
 q19365,"If you meet someone and they are everything you are looking for, except their body type, do you give them a chance?",Yes,No,,,25296,O,,preference
-q18682,Do you think physical love is necessary for happiness in life?,Yes,No,,,26153,O,,opinion
-q1172,Do you own any dice with more than six sides?,Yes,No,,,28736,O,,descriptive
-q1158,"Are you married, engaged to be married, or in a relationship that you believe will lead to marriage?",Yes,No,,,25211,O,,sex/intimacy; descriptive
-q1133,Do you have rape fantasies?,Yes,No,,,28546,O,,sex/intimacy
-q1119,Does your partner have to be an active reader?,Yes,No,,,30205,O,,preference
-q1112,Do you like the taste of beer?,Yes,No,,,32538,O,,preference
-q1099,Are you smarter than most people?,Yes,No,,,36529,O,,descriptive; cognitive
-q1040,Receiving anal sex?,I like it / I think I might like it,I don't like it / I don't think I would like it,,,28476,O,,sex/intimacy
-q1766,Is art important to you?,Yes,No,,,38244,O,,preference
-q171,What's more important to you?,Your world,Your country,,,25571,O,,politics; preference
+q47635,Imagine you have a partner who is able to provide financially for you and any children.  Would you consider taking a stay-at-home role?,Yes.,No.,,,23885,O,,preference; descriptive
 q165644,What's worse on a first date?,No physical attraction,Nothing to talk about,,,40161,O,,religion/superstition; descriptive
 q158,Are you an aspiring actor/artist/writer or other creative type?,Yes,No,,,40052,O,,descriptive
 q15744,Are you a pet person?,Yes,No,,,25704,O,,descriptive
 q155,Would you ever seriously date someone twice your age?,Yes,No,,,26336,O,,preference
 q15478,Do you like hickies?,Yes,No,,,25015,O,,sex/intimacy
+q47764,Do you think it is possible for someone to be an Atheist and still have a solid moral framework by which to live?,Yes.,No.,,,31211,O,,religion/superstition
+q19737,Could you live a life full of traveling?,Yes,No,,,24187,O,,descriptive
+q171,What's more important to you?,Your world,Your country,,,25571,O,,politics; preference
+q18682,Do you think physical love is necessary for happiness in life?,Yes,No,,,26153,O,,opinion
+q48328,Do you believe that money can buy happiness?,Yes.,No.,,,26485,O,,opinion
+q48347,Do you think you could ever enjoy being humiliated as part of a sexual experience?,Yes,No,,,29201,O,,sex/intimacy
+q1766,Is art important to you?,Yes,No,,,38244,O,,preference
+q48372,Do you believe in the power of prayer?,Yes,No,,,34783,O,,religion/superstition
+q44540,"If you were in a serious relationship, would you mind if your significant other maintained an active profile on OkCupid?",Yes - I would mind this.,No - This would not bother me.,,,23911,O,,preference; descriptive
+q44639,Do you like scary movies?,Yes,No,,,54964,O,,preference
+q21,Do you enjoy meaningless sex?,Yes,No,,,31024,O,,sex/intimacy
+q83646,Would you consider living with a partner who does not want any pets?,Yes.,No.,,,32223,O,,descriptive
+q84023,Could you live the rest of your life without drinking alcohol?,Yes.,No.,,,24839,O,,descriptive
+q84910,Would it bother you if someone you are dating has a lot of close friends of the opposite sex?,Yes.,No.,,,24726,O,,descriptive
+q46856,Do you prefer the people in your life to be simple or complex?,Simple,Complex,,,30997,O,,preference
+q26,Have you ever owned sex toys?,Yes,No,,,25010,O,,sex/intimacy
+q17,Would you date someone just for the sex?,Yes,No,,,38180,O,,sex/intimacy
+q156913,Are you Christian?,Yes,No,,,40611,O,,religion/superstition; descriptive
+q156914,Are you Jewish?,Yes,No,,,32303,O,,religion/superstition; descriptive
+q14,Is a guy who's slept with 100 girls a bad person?,Yes,No,,,31127,O,,sex/intimacy
+q13,Is a girl who's slept with 100 guys a bad person?,Yes,No,,,32581,O,,sex/intimacy
+q20530,"When chatting with a potential friend/significant other online, is use of proper grammar and spelling important to you?",Yes,No,,,30682,O,,preference
+q20950,People who throw cigarette butts out of their car window...,Are not doing any real harm,Are being insensitive and/or rude,,,23987,N,,opinion
+q2,Breast implants?,more cool than pathetic,more pathetic than cool,,,24839,N,,sex/intimacy; preference; opinion
+q50379,"Imagine being all alone in the great outdoors, miles from anyone, with no communication device.  Nobody knows where you are.",This is something I would like.,This is something I would avoid.,,,26241,O,,descriptive
+q21527,Do you feel there are any circumstances in which a person is obligated to have sex with you?,Yes,No,,,30992,O,,sex/intimacy; opinion
+q14913,Did you join OkCupid just so you could find people to have sex with?,Yes,No,,,39790,O,,sex/intimacy; descriptive
+q13054,What do you think of laws that make smoking illegal in bars and restaurants?,I support the laws,I oppose the laws,,,31143,O,,politics
+q12964,Would you need to sleep with someone before you considered marrying them?,Yes,No,,,50115,O,,sex/intimacy; preference
+q42524,"Would you ever consider having a friendship based primarily on sex, with no intentions for love, romance, or long-term commitment?",Yes.,No.,,,24624,O,,sex/intimacy; preference; descriptive
+q9522,Would you date someone who has never been in any kind of relationship before?,Yes,No,,,26425,O,,preference
+q15372,Could you date someone who has strong political opinions that are the exact opposite of yours?,Yes,No,,,28929,O,,politics; preference
+q15280,Could you date someone with no long-term goals?,Yes,No,,,31581,O,,preference
+q15182,Which is worse?,Someone who is always happy,Someone who is always sad,,,22957,O,,opinion
+q15037,"If someone asked you, 'What's the worst thing you've ever done?' would you know the answer right away?",Yes,No,,,28810,O,,descriptive
+q6347,Do you believe in miracles?,Yes,No,,,26723,O,,religion/superstition; descriptive
+q226,Which would you rather lose?,the right to bear arms,the right to vote,,,30519,N,,politics; preference
+q13669,Would you date someone shorter than you?,Yes,No,,,25579,O,,preference
+q13086,Would you date a single parent?,Yes,No,,,27359,O,,preference
 q1497,Which would you rather choose: peace on Earth or loads of money?,Peace on Earth,Loads of money,,,23884,N,,politics; preference
 q149,Which makes for a better relationship?,Passion,Dedication,,,49355,N,,sex/intimacy
 q142,Is it possible to love someone you don't even like?,Yes,No,,,22947,O,,sex/intimacy; opinion
-q4018,Are you happy with your life?,Yes,No,,,53625,O,,descriptive
-q2457,Does spending Friday or Saturday night at home annoy you?,Yes,No,,,27772,O,,preference
-q1830,What makes a better friend?,Quick wit and a mischievous smile,Compassionate nature and a shoulder to support you,,,23094,N,,preference; opinion
-q1815,Could you date someone who already has children from a previous relationship?,Yes,No,,,46323,O,,preference
-q1597,Would you consider sleeping with someone on the first date?,Yes,No,,,52509,O,,sex/intimacy; preference
-q1454,"Do you enjoy outdoor activities such as camping, hiking or fishing?",Yes,No,,,35889,O,,preference
-q1440,Is jealousy healthy in a relationship?,Yes,No,,,51882,O,,opinion
-q1387,"Would you ever engage in a sexual activity you didn't enjoy, just because your partner did?",Yes,No,,,25029,O,,sex/intimacy
-q1375,Are geeks sexy?,Yes,No,,,26971,O,,sex/intimacy; preference; opinion
-q13130,"Hypothetically, do you think you would be good at being a porn star?",Yes,No,,,23277,O,,sex/intimacy; descriptive
-q1290,Do you feel like you're still hurting from something that happened to you a long time ago?,Yes,No,,,26085,O,,descriptive
-q12584,Do you enjoy exercise?,Yes,No,,,27664,O,,descriptive
-q445141,Which superpower would you rather have?,Flight,Invisibility,,,37000,N,,preference
-q358084,Do you enjoy intense intellectual conversations?,Yes,No,,,54696,O,,descriptive
-q358077,Could you date someone who was really messy?,Yes,No,,,55695,O,,preference
-q358014,Could you date someone who was really quiet?,Yes,No,,,48415,O,,preference
-q313640,Were you picked on a lot in school?,Yes,No,,,34128,O,,descriptive
-q8054,Have you ever been in love?,Yes,No,,,34876,O,,sex/intimacy; descriptive
-q7077,Which is better: sex without sleeping together or sleeping together without sex?,Sex,Sleeping,,,28853,N,,sex/intimacy
-q6971,Is VERY short hair on a girl necessarily unattractive?,Yes,No,,,22956,O,,preference; opinion
-q6867,Would you enjoy a night in playing video games?,Yes,No,,,28537,O,,preference
+q275,Are you a virgin?,Yes,No,,,29250,O,,sex/intimacy; descriptive
+q48770,Would it ever be okay to break up with someone by email or text?,Yes.,No.,,,23313,O,,opinion
+q40944,Do you have a checklist of mandatory traits that you absolutely require in any significant other?,Yes.,No.,,,27473,O,,preference; descriptive
 q6537,Could you live without the Internet?,Yes,No,,,26252,O,,descriptive
-q6347,Do you believe in miracles?,Yes,No,,,26723,O,,religion/superstition; descriptive
-q6258,Would you date someone who is bisexual?,Yes,No,,,33111,O,,sex/intimacy; preference
-q6111,Do overweight people annoy you?,Yes,No,,,26093,O,,descriptive; preference; opinion
-q6040,Were you born the same gender as you are now?,Yes,No,,,25650,O,,descriptive
-q5417,Would you date someone who still lives with his/her parents?,Yes,No,,,31215,O,,preference
+q6867,Would you enjoy a night in playing video games?,Yes,No,,,28537,O,,preference
+q6971,Is VERY short hair on a girl necessarily unattractive?,Yes,No,,,22956,O,,preference; opinion
+q7077,Which is better: sex without sleeping together or sleeping together without sex?,Sex,Sleeping,,,28853,N,,sex/intimacy
+q8054,Have you ever been in love?,Yes,No,,,34876,O,,sex/intimacy; descriptive
+q40570,"Is it more important to you that you are tactful, or truthful?",Tactful,Truthful,,,27327,O,,preference
+q16713,Are you careful with your money?,Yes,No,,,39863,O,,descriptive
+q17168,Could you date someone who wasn't sure what they wanted to do with their life?,Yes,No,,,24782,O,,preference
+q18125,Do you believe that there exists a statistical correlation between race and intelligence?,Yes,No,,,25980,O,,politics; cognitive
+q46403,Could you date someone who needs a great deal of alone time?,Yes.,No.,,,33397,O,,preference
+q18619,Have you ever had a sexual relationship with someone you met online?,Yes,No,,,23146,O,,sex/intimacy; descriptive
+q46176,Is it possible for someone to really be 'too nice'?,Yes.,No.,,,24783,O,,opinion
+q45645,Have you ever faked an orgasm during sex?,Yes.,No.,,,23016,O,,sex/intimacy; descriptive
+q45006,Imagine you have a significant other who reveals they have a video of a sexual encounter from a prior relationship and offers to show it to you.  Would you want to see it?,Yes.,No.,,,28956,O,,sex/intimacy; preference
+q358014,Could you date someone who was really quiet?,Yes,No,,,48415,O,,preference
+q28902,Would you consider a serious relationship with someone who couldn't have or produce children?,Yes,No,,,24528,O,,descriptive; preference
+q61786,Would you consider dating someone whose religion or spirituality is the primary focus in their life?,Yes,No,,,33979,O,,religion/superstition
+q27794,Would you date someone who was always optimistic?,Yes,No,,,24852,O,,preference
+q50483,Do you consider astrology to be a legitimate science?,Yes.,No.,,,24653,O,,religion/superstition
+q33870,"Would the fact that a partner insisted you were perfect (had no faults) and refused to acknowledge your shortcomings, bother you?",Yes,No,,,24973,O,,descriptive
+q55980,Would you like to be the supreme ruler of all people on Earth?,Yes.,No.,,,23410,O,,preference
+q31055,Would you date someone who kept a gun in the house?,Yes,No,,,31549,O,,preference
+q358077,Could you date someone who was really messy?,Yes,No,,,55695,O,,preference
+q60852,Do you believe that regular sex is necessary in maintaining a healthy relationship?,Yes,No,,,32953,O,,sex/intimacy; opinion
+q313640,Were you picked on a lot in school?,Yes,No,,,34128,O,,descriptive
 q179268,Are you either vegetarian or vegan?,Yes,No,,,54202,O,,politics; descriptive
 q170849,Do you Google someone before a first date?,Yes. Knowledge is power!,No. Why spoil the mystery?,,,39621,O,,descriptive; technology
 q156918,Do you practice Hinduism?,Yes,No,,,27416,O,,religion/superstition; descriptive
 q156917,Are you an Atheist?,Yes,No,,,23359,O,,descriptive
 q156915,Are you a Buddhist?,Yes,No,,,28093,O,,religion/superstition; descriptive
-q156914,Are you Jewish?,Yes,No,,,32303,O,,religion/superstition; descriptive
-q156913,Are you Christian?,Yes,No,,,40611,O,,religion/superstition; descriptive
-q84910,Would it bother you if someone you are dating has a lot of close friends of the opposite sex?,Yes.,No.,,,24726,O,,descriptive
-q84023,Could you live the rest of your life without drinking alcohol?,Yes.,No.,,,24839,O,,descriptive
-q83646,Would you consider living with a partner who does not want any pets?,Yes.,No.,,,32223,O,,descriptive
-q13669,Would you date someone shorter than you?,Yes,No,,,25579,O,,preference
-q13086,Would you date a single parent?,Yes,No,,,27359,O,,preference
-q13054,What do you think of laws that make smoking illegal in bars and restaurants?,I support the laws,I oppose the laws,,,31143,O,,politics
-q12964,Would you need to sleep with someone before you considered marrying them?,Yes,No,,,50115,O,,sex/intimacy; preference
-q9522,Would you date someone who has never been in any kind of relationship before?,Yes,No,,,26425,O,,preference
-q82263,Would being in the same room with a couple of friends who are having sex bother you?,Yes.,No.,,,27995,O,,sex/intimacy; descriptive
-q81847,Would you date someone who has cold-sores (oral herpes)?,Yes.,No.,,,22945,O,,preference; descriptive
-q81307,Have you ever had sex with a person within the first hour of meeting them?,Yes.,No.,,,28991,O,,sex/intimacy; descriptive
-q80041,Are you looking for a partner to have children with?,Yes,No,,,40026,O,,descriptive
-q72086,"If your partner needed lovemaking to always be gentle, would you be fine with this?",Yes.,No.,,,32810,O,,sex/intimacy
-q15839,Do you often find yourself wanting to chuck it all and go to live on a sailboat?,Yes,No,,,24352,O,,descriptive
-q15372,Could you date someone who has strong political opinions that are the exact opposite of yours?,Yes,No,,,28929,O,,politics; preference
-q15280,Could you date someone with no long-term goals?,Yes,No,,,31581,O,,preference
-q15182,Which is worse?,Someone who is always happy,Someone who is always sad,,,22957,O,,opinion
-q15037,"If someone asked you, 'What's the worst thing you've ever done?' would you know the answer right away?",Yes,No,,,28810,O,,descriptive
-q14913,Did you join OkCupid just so you could find people to have sex with?,Yes,No,,,39790,O,,sex/intimacy; descriptive
-q69912,"Other things being equal, would you be more attracted to an artist or a scientist?",Artist,Scientist,,,24827,O,,preference
-q68580,"After dating someone for a while, you finally get to see where they live. He/she leaves you alone to go take a quick shower. Would you snoop?",Yes.,No.,,,23502,O,,descriptive
-q68401,Could you fall in love with someone you have only talked to online?,Yes.,No.,,,28370,O,,descriptive
-q67821,Would it bother you if your partner kept pictures of previous partner(s)?,Yes.,No.,,,29581,O,,descriptive
-q65043,Do you own any sexy underwear?,Yes.,No.,,,23327,O,,descriptive
-q62254,"If it were legal to do so where you live, would you smoke marijuana?",Yes.,No.,,,34257,O,,descriptive
-q61786,Would you consider dating someone whose religion or spirituality is the primary focus in their life?,Yes,No,,,33979,O,,religion/superstition
-q60852,Do you believe that regular sex is necessary in maintaining a healthy relationship?,Yes,No,,,32953,O,,sex/intimacy; opinion
-q60100,Is astrological sign at all important in a match?,Yes,No,,,55643,O,,religion/superstition
-q59457,Are you okay with people who grow marijuana for their own personal use?,Yes.,No.,,,36553,O,,politics
-q58812,Would you consider roleplaying out a rape fantasy with partner who asked you to?,Yes.,No.,,,29249,O,,sex/intimacy
 q57717,Do you feel that having sex with someone you have known less than one year would be too soon?,Yes.,No.,,,29322,O,,sex/intimacy; opinion
-q55980,Would you like to be the supreme ruler of all people on Earth?,Yes.,No.,,,23410,O,,preference
-q18692,Do you have an ex that you would really like to date again?,Yes,No,,,31366,O,,sex/intimacy; descriptive
-q18644,Does your ideal schedule involve staying up very late at night and sleeping during the day?,Yes,No,,,23080,O,,preference
-q18619,Have you ever had a sexual relationship with someone you met online?,Yes,No,,,23146,O,,sex/intimacy; descriptive
-q18125,Do you believe that there exists a statistical correlation between race and intelligence?,Yes,No,,,25980,O,,politics; cognitive
-q17168,Could you date someone who wasn't sure what they wanted to do with their life?,Yes,No,,,24782,O,,preference
-q16713,Are you careful with your money?,Yes,No,,,39863,O,,descriptive
-q55355,Do you have a problem with people who wear fur clothing?,Yes.,No.,,,24055,O,,politics
-q55264,Do you think that a person's musical preferences are a good indicator of intelligence?,Yes.,No.,,,24782,O,,opinion
-q50755,Do you believe that everything happens for a reason?,Yes.,No.,,,28223,O,,religion/superstition
-q50483,Do you consider astrology to be a legitimate science?,Yes.,No.,,,24653,O,,religion/superstition
-q50379,"Imagine being all alone in the great outdoors, miles from anyone, with no communication device.  Nobody knows where you are.",This is something I would like.,This is something I would avoid.,,,26241,O,,descriptive
-q48770,Would it ever be okay to break up with someone by email or text?,Yes.,No.,,,23313,O,,opinion
-q48372,Do you believe in the power of prayer?,Yes,No,,,34783,O,,religion/superstition
-q48347,Do you think you could ever enjoy being humiliated as part of a sexual experience?,Yes,No,,,29201,O,,sex/intimacy
-q48328,Do you believe that money can buy happiness?,Yes.,No.,,,26485,O,,opinion
-q47764,Do you think it is possible for someone to be an Atheist and still have a solid moral framework by which to live?,Yes.,No.,,,31211,O,,religion/superstition
-q47635,Imagine you have a partner who is able to provide financially for you and any children.  Would you consider taking a stay-at-home role?,Yes.,No.,,,23885,O,,preference; descriptive
-q19893,Is a tongue stud a turn-on?,Yes,No,,,23472,O,,sex/intimacy; preference
-q19854,Are sex and intimacy the same thing?,Yes,No,,,29800,O,,sex/intimacy; opinion
-q19681,Are some sex acts with consenting adults inherently wrong or immoral?  Assume no unusual risk of injury.,Yes,No,,,27949,O,,sex/intimacy; religion/superstition
-q19392,Have you ever written something on the wall of a public toilet?,Yes,No,,,28999,O,,descriptive
-q19075,Would you date someone who doesn't own a car?,Yes,No,,,28928,O,,preference
-q19011,Do you have a TV in your bedroom?,Yes,No,,,25467,O,,descriptive
-q18955,Would you date someone who's smart but achieved nothing in life?,Yes,No,,,24118,O,,preference
-q18843,Are you a good liar?,Yes,No,,,29472,O,,descriptive
-q46856,Do you prefer the people in your life to be simple or complex?,Simple,Complex,,,30997,O,,preference
-q46403,Could you date someone who needs a great deal of alone time?,Yes.,No.,,,33397,O,,preference
-q46176,Is it possible for someone to really be 'too nice'?,Yes.,No.,,,24783,O,,opinion
-q45645,Have you ever faked an orgasm during sex?,Yes.,No.,,,23016,O,,sex/intimacy; descriptive
-q45006,Imagine you have a significant other who reveals they have a video of a sexual encounter from a prior relationship and offers to show it to you.  Would you want to see it?,Yes.,No.,,,28956,O,,sex/intimacy; preference
-q44639,Do you like scary movies?,Yes,No,,,54964,O,,preference
-q44540,"If you were in a serious relationship, would you mind if your significant other maintained an active profile on OkCupid?",Yes - I would mind this.,No - This would not bother me.,,,23911,O,,preference; descriptive
-q42524,"Would you ever consider having a friendship based primarily on sex, with no intentions for love, romance, or long-term commitment?",Yes.,No.,,,24624,O,,sex/intimacy; preference; descriptive
-q20950,People who throw cigarette butts out of their car window...,Are not doing any real harm,Are being insensitive and/or rude,,,23987,N,,opinion
-q20530,"When chatting with a potential friend/significant other online, is use of proper grammar and spelling important to you?",Yes,No,,,30682,O,,preference
-q20240,"What is worse, being poor or alone?",Poor,Alone,,,26654,N,,opinion
-q19919,"Would you prefer to have one true love forever, or lots of fun and meaningful relationships?",One true love,Lots of relationships,,,24947,O,,sex/intimacy; preference
-q40944,Do you have a checklist of mandatory traits that you absolutely require in any significant other?,Yes.,No.,,,27473,O,,preference; descriptive
-q40570,"Is it more important to you that you are tactful, or truthful?",Tactful,Truthful,,,27327,O,,preference
+q13130,"Hypothetically, do you think you would be good at being a porn star?",Yes,No,,,23277,O,,sex/intimacy; descriptive
 q39714,Do you find the idea of shaving a partner's pubic hair exciting?,Yes.,No.,,,24479,O,,sex/intimacy
+q72086,"If your partner needed lovemaking to always be gentle, would you be fine with this?",Yes.,No.,,,32810,O,,sex/intimacy
+q80041,Are you looking for a partner to have children with?,Yes,No,,,40026,O,,descriptive
+q81307,Have you ever had sex with a person within the first hour of meeting them?,Yes.,No.,,,28991,O,,sex/intimacy; descriptive
+q81847,Would you date someone who has cold-sores (oral herpes)?,Yes.,No.,,,22945,O,,preference; descriptive
+q82263,Would being in the same room with a couple of friends who are having sex bother you?,Yes.,No.,,,27995,O,,sex/intimacy; descriptive
 q38838,Have you ever had sex with someone you first met online?,Yes.,No.,,,26290,O,,descriptive
 q38767,Is it okay for men to wear makeup?,Yes,No,,,29029,O,,opinion
+q65043,Do you own any sexy underwear?,Yes.,No.,,,23327,O,,descriptive
 q38320,Is it generally acceptable to you for a sex partner to initiate foreplay while you are sleeping?,Yes.,No.,,,26301,O,,sex/intimacy
+q67821,Would it bother you if your partner kept pictures of previous partner(s)?,Yes.,No.,,,29581,O,,descriptive
+q68401,Could you fall in love with someone you have only talked to online?,Yes.,No.,,,28370,O,,descriptive
+q68580,"After dating someone for a while, you finally get to see where they live. He/she leaves you alone to go take a quick shower. Would you snoop?",Yes.,No.,,,23502,O,,descriptive
+q69912,"Other things being equal, would you be more attracted to an artist or a scientist?",Artist,Scientist,,,24827,O,,preference
 q37708,The idea of gay and lesbian couples having children is:,Acceptable.,Not acceptable.,,,37661,O,,politics; religion/superstition; opinion
-q21527,Do you feel there are any circumstances in which a person is obligated to have sex with you?,Yes,No,,,30992,O,,sex/intimacy; opinion
-q33870,"Would the fact that a partner insisted you were perfect (had no faults) and refused to acknowledge your shortcomings, bother you?",Yes,No,,,24973,O,,descriptive
-q31055,Would you date someone who kept a gun in the house?,Yes,No,,,31549,O,,preference
-q28902,Would you consider a serious relationship with someone who couldn't have or produce children?,Yes,No,,,24528,O,,descriptive; preference
-q27794,Would you date someone who was always optimistic?,Yes,No,,,24852,O,,preference
-q27477,Do you often find yourself worrying about things that you have no control over?,Yes,No,,,33120,O,,descriptive
-q27243,I find myself in fights with authority figures...,Often,Rarely / never,,,28814,O,,descriptive
 q26557,You're dating someone new. You discover that they have a housemate the same sex as you. This:,Makes you feel uncomfortable,Doesn't faze you one bit,,,33640,O,,descriptive
+q19392,Have you ever written something on the wall of a public toilet?,Yes,No,,,28999,O,,descriptive
+q19681,Are some sex acts with consenting adults inherently wrong or immoral?  Assume no unusual risk of injury.,Yes,No,,,27949,O,,sex/intimacy; religion/superstition
+q19854,Are sex and intimacy the same thing?,Yes,No,,,29800,O,,sex/intimacy; opinion
+q19893,Is a tongue stud a turn-on?,Yes,No,,,23472,O,,sex/intimacy; preference
+q19919,"Would you prefer to have one true love forever, or lots of fun and meaningful relationships?",One true love,Lots of relationships,,,24947,O,,sex/intimacy; preference
+q55355,Do you have a problem with people who wear fur clothing?,Yes.,No.,,,24055,O,,politics
+q20240,"What is worse, being poor or alone?",Poor,Alone,,,26654,N,,opinion
+q18644,Does your ideal schedule involve staying up very late at night and sleeping during the day?,Yes,No,,,23080,O,,preference
+q18692,Do you have an ex that you would really like to date again?,Yes,No,,,31366,O,,sex/intimacy; descriptive
+q18843,Are you a good liar?,Yes,No,,,29472,O,,descriptive
+q18955,Would you date someone who's smart but achieved nothing in life?,Yes,No,,,24118,O,,preference
+q19011,Do you have a TV in your bedroom?,Yes,No,,,25467,O,,descriptive
+q19075,Would you date someone who doesn't own a car?,Yes,No,,,28928,O,,preference
+q55264,Do you think that a person's musical preferences are a good indicator of intelligence?,Yes.,No.,,,24782,O,,opinion
 q26529,Have you ever taken any pills hoping they would help you lose weight?,Yes,No,,,24733,O,,descriptive
-q25228,Do you think drug use with your partner can be a romantic activity?,Yes,No,,,37188,O,,sex/intimacy; preference; opinion
-q24748,Would you date a comic book geek?,Yes,No,,,22921,O,,preference; descriptive
-q24125,Do you believe contraception is morally wrong?,Yes,No,,,48530,O,,religion/superstition
-q23834,Do you often make jokes that offend more uptight people?,Yes,No,,,44922,O,,descriptive
-q68185,Would you enjoy going fishing with your partner?,Yes.,No.,,,22869,O,,preference
 q64,Which is more important in a healthy relationship?,Maintaining privacy,Total openness,,,24393,O,,sex/intimacy
-q62455,Are you a workaholic?,Yes.,No.,,,23967,O,,descriptive
-q54016,Are you afraid of falling madly in love?,Yes.,No.,,,23850,O,,descriptive
-q76,Are you a morning person?,Yes,No,,,27218,O,,descriptive
-q74,Do you spend more money on clothes or food?,Clothes,Food,,,33168,N,,preference
-q73,Would you rather live in the big city or a small town?,Big city,Small town,,,28084,O,,preference
-q71,Is interracial marriage a bad idea?,Yes,No,,,32492,O,,politics
+q27243,I find myself in fights with authority figures...,Often,Rarely / never,,,28814,O,,descriptive
+q27477,Do you often find yourself worrying about things that you have no control over?,Yes,No,,,33120,O,,descriptive
+q62254,"If it were legal to do so where you live, would you smoke marijuana?",Yes.,No.,,,34257,O,,descriptive
+q23834,Do you often make jokes that offend more uptight people?,Yes,No,,,44922,O,,descriptive
+q24125,Do you believe contraception is morally wrong?,Yes,No,,,48530,O,,religion/superstition
+q50755,Do you believe that everything happens for a reason?,Yes.,No.,,,28223,O,,religion/superstition
+q24748,Would you date a comic book geek?,Yes,No,,,22921,O,,preference; descriptive
+q25228,Do you think drug use with your partner can be a romantic activity?,Yes,No,,,37188,O,,sex/intimacy; preference; opinion
+q60100,Is astrological sign at all important in a match?,Yes,No,,,55643,O,,religion/superstition
+q358084,Do you enjoy intense intellectual conversations?,Yes,No,,,54696,O,,descriptive
+q59457,Are you okay with people who grow marijuana for their own personal use?,Yes.,No.,,,36553,O,,politics
+q445141,Which superpower would you rather have?,Flight,Invisibility,,,37000,N,,preference
+q12584,Do you enjoy exercise?,Yes,No,,,27664,O,,descriptive
+q1290,Do you feel like you're still hurting from something that happened to you a long time ago?,Yes,No,,,26085,O,,descriptive
+q58812,Would you consider roleplaying out a rape fantasy with partner who asked you to?,Yes.,No.,,,29249,O,,sex/intimacy
+q87,Is smoking disgusting?,Yes,No,,,47244,O,,opinion
 q70,Do you think homosexuality is a sin?,Yes,No,,,48983,O,,religion/superstition
 q65,Do you have a problem with racist jokes?,Yes,No,,,38041,O,,preference
 q63,Which word describes you better?,Private,Social,,,23765,O,,descriptive
@@ -251,327 +138,440 @@ q57,Do you like to argue?,Yes,No,,,33896,O,,preference
 q56,Are you attracted to dangerous situations?,Yes,No,,,39510,O,,preference
 q55,Does the idea of flipping a coin to make important life decisions appeal to you?,Yes,No,,,34393,O,,preference
 q49,Which word describes you better?,Carefree,Intense,,,49827,N,,descriptive
-q32,Group sex (with 3 or more people):,I have tried it.,It seriously interests me.,I have little or no interest.,,32816,O,,sex/intimacy
-q78,"Generally, do you enjoy being drunk?",Yes,No,"I don't know, because I've never been drunk.",,30487,M,[3],preference
-q23507,"Could you date someone who never, ever, threw anything away?","Yes, junk is cool",No,I don't know,,24090,O,"2, 3, 1",preference
-q24282,"Outside of work and school, how inclined are you to investigate something that interests you?",Very inclined,Somewhat inclined,Not inclined,,35888,O,,descriptive
-q24333,Are you squeamish about sharing food or beverages with the person you're dating?,Yes,No,Only at first,,27513,O,"2, 3, 1",descriptive
-q25294,"Would you date someone who was currently in a relationship, knowing that you would 'be a secret?'","Sure, why not?",Depends on the person.,Absolutely NOT.,,25829,O,,preference
-q323,How confident are you in your sexual abilities?,Super confident,Confident,Not really confident,,31389,O,,sex/intimacy; descriptive
-q338,How does your maturity level compare with most people your age?,I'm more mature,I'm average,I'm less mature,,29286,O,,descriptive
-q365,"How much would you enjoy hosting a big, crazy party?",A lot,Not that much,Not at all,,23047,O,,preference; opinion
-q179,Who's smarter on average?,Men,Women,"Neither, they're the same on average",,23841,O,"1, 3, 2",opinion
-q234,Does fashion matter to you?,A lot,A little,Not at all,,26847,O,,preference
-q35276,How much communication is ideal during sex?,A lot! It's all about the talk.,Just enough to get things right.,None. Shut up so I can concentrate.,,28451,O,,sex/intimacy
-q366,"When you're not in a serious relationship, what do you prefer?",Dating multiple people at once,Dating one person at a time,"I only have serious relationships, I don't 'date'",,25073,O,,preference
-q36790,Let's say you are in line at a grocery store and have many items.  The person behind you just has only one or two.  Do you offer to let them go ahead of you?,Yes.  Always.,"Yes, unless I am otherwise in a hurry.",No.  Never.,,27742,O,,descriptive
-q38051,How often do you gamble?,Often.,Rarely.,Never.,,27266,O,,descriptive
-q38173,Do you enjoy watching educational programming on television?,"Yes, often.","Yes, on occasion.","No, never.",,25991,O,,descriptive
-q637,Have you ever had sex in a place where there was a high risk of being caught?,Yes,"No, but it sounds like fun","No, I don't think I could do it",,28379,O,,sex/intimacy; preference; descriptive
-q411,"Do humans and modern primates (apes, chimps, etc) share a common evolutionary ancestor?",Yes,No,Unsure,,33037,O,"1, 3, 2",religion/superstition
-q531,"Would you rather play Scrabble, go out dancing, or get drunk?",Scrabble,Dancing,Booze,,29621,N,,preference
+q48,Which would you rather be?,Normal,Weird,,,52464,N,,preference
+q28,Would you dump someone simply because they weren't good at sex?,Yes,No,,,30477,O,,sex/intimacy
+q91,"Honestly, which do you do more of?",Watch television,Read,,,23830,N,,descriptive
+q39185,Which is more offensive: book burning or flag burning?,book burning,flag burning,,,36598,N,,politics
+q105,Do you have a child or children?,Yes,No,,,31097,O,,descriptive
+q76,Are you a morning person?,Yes,No,,,27218,O,,descriptive
+q74,Do you spend more money on clothes or food?,Clothes,Food,,,33168,N,,preference
+q73,Would you rather live in the big city or a small town?,Big city,Small town,,,28084,O,,preference
+q71,Is interracial marriage a bad idea?,Yes,No,,,32492,O,,politics
+q605,"Would you date someone who was looking for true love - but no sex, at all, ever?",Yes,No,,,23360,O,,sex/intimacy
+q527,Is marriage a necessity for two people who love each other?,Yes,No,,,35270,O,,sex/intimacy; religion/superstition
+q512,Do you like to dance?,Yes,No,,,23504,O,,preference
+q838,"For you personally, is abortion an option in case of an accidental pregnancy?",Yes,No,,,44461,O,,politics; religion/superstition; opinion
+q784,Would you be okay with your significant other spending a lot of time with one of his/her exes (as a friend)?,Yes,No,,,38166,O,,sex/intimacy; preference
+q763,Do you believe in karma?,Yes,No,,,25417,O,,religion/superstition
+q617,"If evil forces made you choose to either watch tv OR read books for the rest of your life, you would:",watch tv,read books,,,23014,N,,preference
+q614,"If you could have brilliant skill at something, would you prefer:",something practical?,something fun?,,,35755,O,,preference
+q134,Do you think women have an obligation to keep their legs shaved?,Yes,No,,,40673,O,,preference
+q106,Have you ever been married?,Yes,No,,,28994,O,,descriptive
+q46,"Would you prefer good things happened, or interesting things?",Good,Interesting,,,52112,N,,preference
+q15839,Do you often find yourself wanting to chuck it all and go to live on a sailboat?,Yes,No,,,24352,O,,descriptive
+q35,"Regardless of future plans, what's more interesting to you right now?",Sex,Love,,,50384,N,,sex/intimacy
+q33,Do you like kissing in public?,Yes,No,,,23004,O,,sex/intimacy
+q136,Would you get upset if your girlfriend/boyfriend flirted in front of you?,Yes,No,,,36168,O,,sex/intimacy; preference; descriptive
+q146,Choose the better romantic activity:,Kissing in Paris,"Kissing in a tent, in the woods",,,39103,N,,sex/intimacy; preference
+q154,"In a certain light, wouldn't nuclear war be exciting?","Yes, it would.","No, it wouldn't.",,,50514,O,,opinion
+q42282,"Some friends invite you to go camping where there are no showers, no toilets, and no services.  The only luxuries would be those you could carry in a pack on your back. Do you go?",Yes.,No.,,,24690,O,,descriptive
+q68185,Would you enjoy going fishing with your partner?,Yes.,No.,,,22869,O,,preference
+q34094,Do you believe a couple should live together before considering marriage?,Yes,No,,,29905,O,,opinion
+q34,Are you more horny or more lonely?,Horny,Lonely,,,23592,N,,sex/intimacy
+q30903,"If you're in a relationship you expect will last for the rest of your life, is it important to you that it be the most satisfying sexual relationship you have ever had?",Yes,No,,,28849,O,,sex/intimacy
+q309,"Have you ever had a true one-night stand? (You met someone, had sex that night, and never contacted each other again.)",Yes,No,,,28425,O,,sex/intimacy; descriptive
+q308,"If you like someone a lot, do you usually ask them out?",Yes,No,,,37597,O,,descriptive
+q38230,Would you really like to stay home and spend an entire day (24 hours) in bed (getting up only for the necessities) with your ideal significant other?,Yes.,No.,,,23810,O,,preference
+q86,Do you own a gun?,Yes,No,,,25688,O,,descriptive
+q357,Which makes for a better first date?,Coffee and chit-chat,Drinks and groping,,,26341,N,,sex/intimacy; preference; opinion
+q354,Would you be comfortable being poor for the rest of your life?,Yes,No,,,26061,O,,preference; opinion
+q341,"Regardless of whether or not you smoke marijuana, do you think it should be legalized for adults?",Yes,No,,,32473,O,,politics
+q219,Gay marraige: should it be legal?,Yes,No,,,33413,O,,religion/superstition
+q335,Do you (or would you) like to go hunting?,Yes,No,,,25464,O,,preference; descriptive
+q334,Do you usually wear cologne or perfume?,Yes,No,,,23846,O,,descriptive
+q325,"Would you consider having an open relationship (i.e., one where you can see other people)?",Yes,No,,,54443,O,,sex/intimacy; preference
+q324,Orgasms are clearly the most important part of sex.,I agree.,I disagree.,,,34643,O,,sex/intimacy; opinion
+q28903,Which of these is likely to make you more nervous?,A promising first date,An important interview,,,44454,N,,descriptive; preference
+q54016,Are you afraid of falling madly in love?,Yes.,No.,,,23850,O,,descriptive
+q496,"When a relationship ends, what's the best thing to do?",Try and be friends with your ex,Go your separate ways,,,23651,O,,sex/intimacy; opinion
+q48947,Is intoxication ever an acceptable excuse for acting stupid?,Yes.,No.,,,27599,O,,opinion
+q48557,Do you find arrogance to be a turn-on?,Yes.,No.,,,25764,O,,preference
+q455,Would the world be a better place if people with low IQs were not allowed to reproduce?,Yes,No,,,35500,O,,politics
+q44,Some religions are more correct than others.,True,False,,,29109,O,,religion/superstition
+q114,"Is it okay to live with someone you're dating, even before you're engaged or married?",Yes,No,,,30969,O,,sex/intimacy; opinion
+q294,Which is more important for a good match?,Having similar political beliefs,Having good sex,,,26731,O,,politics; preference; opinion; sex/intimacy
+q39,Would you let your children under 13 watch movies with full nudity?,Yes,No,,,26933,O,,sex/intimacy
+q123,Would you strongly prefer to go out with someone of your own skin color / racial background?,Yes,No,,,53312,O,,preference
+q27239,It's your first date with someone you recently met. At the end she/he says 'I think I love you.',Scary,Sweet,,,31249,O,,opinion
+q27164,Do you believe that men should be the heads of their households?,Yes,No,,,31355,O,,religion/superstition; opinion
+q27,Which is a bigger deal for you?,Telling someone you really care,Oral sex,,,24749,O,,sex/intimacy
+q62455,Are you a workaholic?,Yes.,No.,,,23967,O,,descriptive
+q359387,"Do you believe morality is universal, or relative?",Universal,Relative,,,34021,N,,opinion
+q358080,What is the most exciting thing about getting to know someone new?,Discovering your shared interests,Discovering their body,,,48981,N,,opinion
+q186,"If you got married, would you change your name?",Yes,No,,,24230,O,,preference; descriptive
+q4018,Are you happy with your life?,Yes,No,,,53625,O,,descriptive
+q5417,Would you date someone who still lives with his/her parents?,Yes,No,,,31215,O,,preference
+q213,Are some human lives worth more than others?,Yes,No,,,28215,O,,politics; opinion
+q6040,Were you born the same gender as you are now?,Yes,No,,,25650,O,,descriptive
+q6111,Do overweight people annoy you?,Yes,No,,,26093,O,,descriptive; preference; opinion
+q6258,Would you date someone who is bisexual?,Yes,No,,,33111,O,,sex/intimacy; preference
+q1387,"Would you ever engage in a sexual activity you didn't enjoy, just because your partner did?",Yes,No,,,25029,O,,sex/intimacy
+q1440,Is jealousy healthy in a relationship?,Yes,No,,,51882,O,,opinion
+q210,Do you believe in God?,Yes,No,,,35015,O,,religion/superstition
+q1454,"Do you enjoy outdoor activities such as camping, hiking or fishing?",Yes,No,,,35889,O,,preference
+q1597,Would you consider sleeping with someone on the first date?,Yes,No,,,52509,O,,sex/intimacy; preference
+q209,Will you teach your children to believe in Santa?,Yes,No,,,26138,O,,religion/superstition
+q193,Do you say grace before meals?,Yes,No,,,23814,O,,religion/superstition
+q1815,Could you date someone who already has children from a previous relationship?,Yes,No,,,46323,O,,preference
+q1119,Does your partner have to be an active reader?,Yes,No,,,30205,O,,preference
+q538,Would you ever record a video of yourself having sex?,Yes,No,,,25806,O,,sex/intimacy
+q1133,Do you have rape fantasies?,Yes,No,,,28546,O,,sex/intimacy
+q185,Are you really into Anime (Japanese Animation) movies?,Yes,No,,,23792,O,,descriptive
+q1158,"Are you married, engaged to be married, or in a relationship that you believe will lead to marriage?",Yes,No,,,25211,O,,sex/intimacy; descriptive
+q1172,Do you own any dice with more than six sides?,Yes,No,,,28736,O,,descriptive
+q1375,Are geeks sexy?,Yes,No,,,26971,O,,sex/intimacy; preference; opinion
+q898,"Is it possible to have a true relationship, friend or otherwise, with someone you've never met in person?",Yes,No,,,23078,O,,sex/intimacy; opinion
+q963,Is foreplay necessary for good sex?,Yes,No,,,31118,O,,sex/intimacy
+q175,Should burning your country's flag be illegal?,Yes,No,,,45720,O,,politics
+q1040,Receiving anal sex?,I like it / I think I might like it,I don't like it / I don't think I would like it,,,28476,O,,sex/intimacy
+q26684,Are you the type of person to tell a homeless person to get a job?,Yes,No,,,26014,O,,descriptive
+q220,Do you like to watch sports on television?,Yes,No,,,28763,O,,preference
+q1099,Are you smarter than most people?,Yes,No,,,36529,O,,descriptive; cognitive
+q1112,Do you like the taste of beer?,Yes,No,,,32538,O,,preference
+q307,Do you like wild parties?,Yes,No,,,27957,O,,preference
+q301,Are you annoyed by people who are super logical?,Yes,No,,,35878,O,,preference
+q486,Is a welfare system a good idea? Or does taxing for it just take money away from hard-working people who earned it?,Welfare is mostly good,Welfare is mostly bad,,,24191,O,,politics
+q358,Do you know the first name of every person you've ever made out with?,Yes,No,,,24303,O,,sex/intimacy
+q124,Do you work out a lot?,Yes,No,,,26934,O,,descriptive
+q501,Have you smoked a cigarette in the last 6 months?,Yes,No,,,57123,O,,descriptive
+q382,Is long hair on a guy inappropriate?,Yes,No,,,25262,O,,opinion
+q388,Is it easier to love or to hate?,Love,Hate,,,25471,O,,opinion
+q434,Do you like loud concerts?,Yes,No,,,23610,O,,preference
+q392,"If someone you barely knew asked you how many people you'd had sex with, would you answer?",Yes,No,,,24741,O,,sex/intimacy
+q393,Is there a such thing as having had too many sex partners?,Yes,No,,,34232,O,,sex/intimacy
+q499,Could you date someone who used anti-depressants?,Yes,No,,,26238,O,,sex/intimacy; preference
+q594,Can anything be made the subject of a joke?,"Yes, anything can be funny in the right light.","No, some subjects should not be joked about.",,,36996,O,,politics; opinion
+q577,How many dates does it take for a potential significant other to get a good sense of who you are as a person?,Less than five,More than five,,,24163,O,,sex/intimacy
+q395,Is it okay for a girl to talk openly about her sexual exploits?,Yes,No,,,29264,O,,sex/intimacy; preference
+q403,Do you enjoy discussing politics?,Yes,No,,,52369,O,,politics; preference; descriptive
+q491,What would be more likely to bother you in a relationship?,Not enough space,Not enough affection,,,31548,N,,sex/intimacy; preference; descriptive
+q553,Do spelling mistakes annoy you?,Yes,No,,,53159,O,,preference
+q1830,What makes a better friend?,Quick wit and a mischievous smile,Compassionate nature and a shoulder to support you,,,23094,N,,preference; opinion
+q2457,Does spending Friday or Saturday night at home annoy you?,Yes,No,,,27772,O,,preference
+q463,"In your ideal sexual encounter, do you take control, or do they?",I take control,They take control,,,28517,O,,sex/intimacy
+q546,Would you date a transgender person?,Yes,No,,,25729,O,,sex/intimacy; preference
+q442,"If you don't do anything at all for an entire day, how does that make you feel?",Good,Bad,,,41784,O,,descriptive
+q60843,"If you were to get married, would you want your partner to change his or her last name to yours?",Yes.,No.,I would want them to make their own decision.,,36563,O,"2, 3, 1",descriptive; preference
+q85315,Have you been faithful in all of your past relationships?,Yes.,No.,I haven't had a past relationship.,,25445,M,[3],descriptive
 q26841,How frequently do you go out of your way to make others feel appreciated?,Way more than average,About average,Less than average / Never,,32376,O,,descriptive
-q27672,Commitment to personal growth is:,For wimps.,Critically important.,Sort of important,,28053,O,"2, 3, 1",opinion
-q28831,"On weekends / days off, do you like to get out and make the most of the day, or do you prefer to sleep late and relax?",Get up and do something,Sleep late and relax,It varies,,30215,O,"2, 3, 1",preference
-q30607,Is it okay to answer your cell phone while out with a friend or on a date?,Of course. Why wouldn't it be?,"Friend, yes. Date, no.","No, that's just rude.",,28810,O,,opinion
-q318,How important is money/wealth for you in a match?,Very important,Somewhat important,Not important at all,,35375,O,,preference
-q26052,Would you date someone who was very into fantasy novels?,Yes,Maybe,"No, what a geek!",,25441,O,,preference
-q26582,Would you ever eat something out of the trash?,Yes,Maybe (if it's still good),No,,26861,O,,descriptive
-q27747,"Do you believe that art and literature courses are important to students, even if they are majoring in other fields?","Yes, absolutely.","I like them, but don't know if they're important.","No, why waste their time?",,23326,O,,politics; opinion
-q27921,Do you believe your country would be more or less safe if every adult owned a gun?,More safe,Less safe,Neither / unsure,,42307,O,"2, 3, 1",politics; opinion
-q28478,"If a blind date used a coupon while paying for dinner, how would you feel?",Negative. That's tacky/cheap.,Positive. Very sensible.,I don't care either way.,,23847,O,"2, 3, 1",descriptive
-q28918,Would you do a striptease for your mate?,Yes,No,Maybe / Unsure,,24385,O,"2, 3, 1",sex/intimacy
-q29032,Which of the following types of intelligence do you most value?,Logical / Mathematical,Social / Interpersonal,Visual / Spatial / Artistic,,35050,N,,preference
-q1132,Would you ever consider cutting a partner (who asked for it) in sexual play?,Yes,Maybe,No,,32264,O,,sex/intimacy
-q1134,Do you have a desire (even if it's secret) to take part in sexual activities involving bondage?,Yes,No,Absolutely not.,,26109,O,,sex/intimacy; BDSM
-q18530,Do you want your partner to be kinkier than you?,Yes,No,Not possible,,37678,M,[3],sex/intimacy
-q18547,Guys with facial hair…,Great!,Okay.,Gross!,,25485,O,,preference; opinion
-q18594,"Do superficial people, who place a high emphasis on physical appearance, annoy you?",Yes,No,Sometimes,,29880,O,"2, 3, 1",descriptive
-q19815,Your significant other is perfectly content with their minimum wage job and has no plans to look for more challenging/better paying work. Is this a problem?,"Yes, I wouldn't be able to tolerate that.","Somewhat, but it's their life.","No, I don't mind.",,31022,O,,preference
-q20021,Which of these options most closely describes what you're looking for in your next relationship?,Someone to come home to,Someone to go out with,Someone for tonight,,40763,N,,preference
-q20062,"While in the middle of the best lovemaking of your life, if your lover asked you to squeal like a dolphin, would you?",Absolutely.,No way.,The best?  Maybe...,,23496,O,"2, 3, 1",sex/intimacy
-q20725,Do you space out or daydream a lot?,All the time,Rarely / never,Sometimes,,43906,O,,descriptive
-q20778,You're up against a nearly impossible challenge. Your ideal partner:,pushes you hard to succeed,reminds you to be realistic,"stands back, but comforts you if you fail",,29761,N,,preference
-q612,Should evolution and creationism be taught side-by-side in school?,"Yes, students should hear both sides","No, creationism has no place in schools","No, evolution has no place in schools",,44907,O,"2, 1, 3",politics; religion/superstition
-q30115,"Have you ever gotten, or would you ever get, a piercing below the belt?",I have.,I would.,I wouldn't.,,25520,O,,descriptive
-q30271,Does silence make you uncomfortable?,Yes,No,Depends on the situation,,27785,O,"2, 3, 1",descriptive
-q31488,"If you were dating somebody that you met online, would you be reluctant to tell your friends?","Yes, I would be reluctant.","No, not at all.","A little, but I would be honest with them.",,26788,O,"2, 3, 1",descriptive; preference
-q31581,Your significant other's ex is coming into town and he/she wants to go out to dinner with them alone. How do you react?,"Sure, no problem.","Not thrilled, but go ahead.",No way.,,42407,O,,preference
-q31877,"When men show extra courtesy toward women (opening doors, pulling out chairs, etc.), this is:",Admirable and desirable. Chivalry's not dead.,Unnecessary but appreciated.,"Sexist and insulting, women are perfectly capable.",,37183,O,,politics; opinion
-q32657,Would you develop a new hobby/cultivate a new interest just to have something in common with your partner?,"Sure, it's good to do stuff together","No, we should maintain our own identities","Maybe, but only if it seemed cool",,26543,O,"2, 3, 1",preference; descriptive
-q1446,Do you care about other people's suffering?,"Yes, solidarity is important","No, everyone has their own responsibility",It depends on the kind of suffering,,28942,O,"1, 3, 2",politics; preference
+q7060,Are politics interesting?,Yes,No,Sometimes,,27093,O,"1, 3, 2",politics; preference; opinion
+q61133,Would you be comfortable masturbating in front of a partner?,Yes.,No.,I don't masturbate.,,23091,M,[3],sex/intimacy
+q35778,Would you allow a pet to sleep on your bed?,Yes.,No.,Maybe.,,35107,O,"2, 3, 1",preference; descriptive
+q39210,Do you believe you've lived past lives?,"Yes, I am confident I have.","No, I do not believe this is possible.","Maybe, but there is no way to really know.",,24152,O,"2, 3, 1",religion/superstition
+q46927,Would you consider dating someone who has vocalized a strong negative bias toward a certain race of people?,Yes.,No.,It depends on which race.,,40350,O,"2, 3, 1",preference
+q9628,Biting?,No,Yes,Let's break skin,,28487,O,,sex/intimacy
+q26525,Can overweight people still be sexy?,Always,Yes,No,,30095,O,,preference; opinion
+q126,What kind of shape are you in?,Great,Average,Shitty,,26252,O,,descriptive
+q132,Can you run a mile without stopping?,Yes,No,Yes - And More,,22862,O,"3, 1, 2",descriptive
+q234,Does fashion matter to you?,A lot,A little,Not at all,,26847,O,,preference
+q38196,"Regardless of where you grew up or now live, which of the following best describes the way you see yourself at heart?",I am an urban or city person.,I am a suburbanite.,I am small town or country person.,,26385,O,,descriptive
+q128,Do you have any tattoos?,I have 1 or more BIG tattoos,I have 1 or more LITTLE tattoos,I have no tattoos,,40450,O,,descriptive
+q122,How much does physical attractiveness matter to you in a match?,A lot,A little,Not at all,,36797,O,,preference
+q53611,How often do you meditate?,Frequently.,Rarely.,Never.,,40623,O,,descriptive
+q45598,Do you enjoy provoking people just to get a response.,Often.,Sometimes.,Never.,,26726,O,,descriptive
+q53402,Do you usually feel the need to shower or bathe after having sex?,Yes.,No.,I've never had sex.,,24920,M,[3],sex/intimacy
+q54052,"In general, how content are you with your own appearance?",Very content.,Somewhat content.,Not very content.,,25559,O,,descriptive
+q60756,"If your partner wanted you to say a specific phrase during sex, would you?","Yes, I'd say anything they want me to.","No, I wouldn't.","Maybe, it would depend upon the phrase.",,30021,O,"2, 3, 1",sex/intimacy
+q46563,Assume you have a homosexual friend who is the same gender as you.  Would it bother you if they hugged you?,Yes.,No.,Only if I thought the hug was more than friendly.,,33991,O,"2, 3, 1",preference; descriptive
+q54695,How clear to you are your goals in life?,Very clear.,Somewhat clear.,Not at all clear.,,25418,O,,descriptive
+q40194,How important is it that your partner be willing and able to participate in meaningful philosophical conversations?,Extremely important.,Somewhat important.,Not at all important.,,39481,O,,preference
+q40288,How trusting are you where it concerns your government?,Completely.,Somewhat.,Not at all.,,27329,O,,politics; descriptive
+q48325,How important are academic achievements to you?,Very important.,Somewhat important.,Not important.,,28673,O,,preference; descriptive
+q43304,Do you get angry when you lose a game?,Usually,Sometimes,Never,,27438,O,,descriptive
+q56606,How interested would you be in knowing the details of a partner's sexual history?,Very interested.,Somewhat interested.,Not interested.,,29116,O,,sex/intimacy; descriptive
+q41393,"In a potential mate, is ditzyness a turn-on or a turn-off?",Turn-on. I find scatterbrained people cute.,Turn-off. I find easily-confused types annoying.,I'm neutral / it depends on their other traits.,,32249,O,"2, 3, 1",preference
+q48753,Do you like to cuddle?,Yes.,No.,Sometimes - It depends.,,47789,O,"2, 3, 1",preference
+q55744,"If you were going to have a child, would you want the other parent to be of the same ethnicity as you?",Yes.,No.,This would not be an important factor to me.,,40629,O,"2, 3, 1",descriptive; preference
+q53540,"Regardless of your actual age, do you consider yourself to be an adult?",Yes.,No.,Only some of the time.,,35857,O,"2, 3, 1",descriptive
+q35203,Would you consider being in a relationship with someone who has had homosexual sex?,Yes,No,I'm Not Sure / Depends how serious it was,,33362,O,"2, 3, 1",sex/intimacy; preference
+q41850,How important is it for you to make physical contact when showing affection for someone?,Very important.,Somewhat important.,Not important.,,41417,O,,preference
+q34333,"Which do you prefer in a significant other, generally speaking?",Dominance/Aggression,Submission/Shyness,"A little of both, depending on the situation",,28356,O,"2, 3, 1",preference
+q179,Who's smarter on average?,Men,Women,"Neither, they're the same on average",,23841,O,"1, 3, 2",opinion
+q34255,How do you feel about women openly displaying tattoos?,I Like It,I Don't Mind,I Dislike It,,34567,O,,preference
+q14853,How do you feel about baseball?,It's my life,I can take it or leave it,I think it's dumb,,23026,O,,preference
 q1707,Which of the following best describes your typical demeanor?,Cheerful!  I have a positive outlook.,Meh. I have my ups and downs.,Annoyed. The world sucks.,,38613,O,,descriptive
 q1730,Do you enjoy Rap/Hip-Hop?,Yes,No,Some,,30046,O,"1, 3, 2",preference
-q153,Pick the best date on this list:,A really nice restaurant,A really divey bar,A day at the beach,,28688,N,,sex/intimacy; preference
-q167,Do you recycle?,Almost always,Sometimes,Rarely or not at all,,24586,O,,politics
-q16820,What is your opinion on Walmart?,Retail heaven,Devil incarnate,Just another corporation,,23325,O,"2, 3, 1",opinion
+q1132,Would you ever consider cutting a partner (who asked for it) in sexual play?,Yes,Maybe,No,,32264,O,,sex/intimacy
+q1134,Do you have a desire (even if it's secret) to take part in sexual activities involving bondage?,Yes,No,Absolutely not.,,26109,O,,sex/intimacy; BDSM
+q1173,Are you more attracted to virgins?,Yes,No,I AM a virgin,,28467,N,,sex/intimacy; preference
 q986,Do you believe in an afterlife/life after death/resurrection?,Yes,No,I'm Not Sure,,26714,O,"1, 3, 2",religion/superstition
 q1049,Would you prefer the lights on or off during sex?,On,Off,It's exactly the same to me,,28621,O,"1, 3, 2",sex/intimacy
 q1052,How often do you get angry?,Very often,Sometimes,Rarely,,37223,O,,descriptive
-q21175,"Are you an intellectual? In the context of this question, intellectual means someone who loves learning, often for its own sake.",Yes,No,I find learning boring,,31729,O,,descriptive; cognitive
-q6499,"If I saw someone checking out my significant other, I'd feel:",flattered / proud,protective / concerned,unchanged,,27195,O,"1, 3, 2",sex/intimacy; preference; descriptive
-q416236,How do you feel about documentaries?,Yay!,Okay,NO.,,43521,O,,descriptive
-q13100,Are you annoyed by tardiness?,Yes,No,I'm the one who's always running late.,,23351,M,[3],descriptive
-q1173,Are you more attracted to virgins?,Yes,No,I AM a virgin,,28467,N,,sex/intimacy; preference
+q15414,"Have you used psychedelic drugs (LSD, mescaline, peyote, etc.) or would you like to?","Yes, I have used psychedelic drugs.","No, I have not used them and I would not try them.","No, I have not used them but I would try them.",,30270,O,"2, 3, 1",descriptive; preference
+q15704,What is your opinion of sarcasm?,I like it or love it.,It's okay.,Sarcasm is formulaic and lame.,,33187,O,,opinion
+q15889,Do you put more weight in science or faith?,Science,Faith,Equally in both,,39488,O,"2, 3, 1",religion/superstition
+q153,Pick the best date on this list:,A really nice restaurant,A really divey bar,A day at the beach,,28688,N,,sex/intimacy; preference
+q1446,Do you care about other people's suffering?,"Yes, solidarity is important","No, everyone has their own responsibility",It depends on the kind of suffering,,28942,O,"1, 3, 2",politics; preference
 q9418,Manners are:,Important,Not very important,I fart on this question,,24556,O,,opinion
 q9447,Which would do more to improve the world?,Fewer stupid people,Fewer ugly people,This question upsets me,,30198,N,,opinion
 q9668,"Not as in whips and chains, but in general, do you prefer your partner to be...",Dominant,Submissive,Balanced,,34373,O,"2, 3, 1",sex/intimacy; preference; BDSM
 q9688,Could you date someone who does drugs?,No,"Yes, but only soft stuff like marijuana",Yes,,55697,O,,preference
 q13006,Would you go out with a smoker?,Yes,"Yes, but only an occasional/social smoker",No,,44337,O,,preference
-q86184,Do you keep your sexual exploits private?,"Yes, always.","No, I am an open book.",Sometimes.,,27490,O,"2, 3, 1",sex/intimacy; descriptive
-q86366,Could you have respect for someone after having sex with them on the first meeting/date?,Yes.,No.,"Maybe, depending upon the circumstances.",,34988,O,"2, 3, 1",sex/intimacy; descriptive
-q86544,Which of the following has the biggest influence on your behavior?,"Reason, Observation, Empiricism, Trial-And-Error.","Tradition, Faith, Upbringing, Heritage.","Emotion, Intuition, Instinct.",,28102,N,,religion/superstition; descriptive
-q5764,Sharing a toothbrush with your partner is:,Utterly disgusting,"Okay, sometimes",A sign of closeness,,26521,O,,sex/intimacy; preference
-q23233,Do you have time for a committed relationship in your life at this point?,"Yes, absolutely",Probably not,No,,23160,O,,descriptive
-q34255,How do you feel about women openly displaying tattoos?,I Like It,I Don't Mind,I Dislike It,,34567,O,,preference
-q34333,"Which do you prefer in a significant other, generally speaking?",Dominance/Aggression,Submission/Shyness,"A little of both, depending on the situation",,28356,O,"2, 3, 1",preference
-q35203,Would you consider being in a relationship with someone who has had homosexual sex?,Yes,No,I'm Not Sure / Depends how serious it was,,33362,O,"2, 3, 1",sex/intimacy; preference
-q35778,Would you allow a pet to sleep on your bed?,Yes.,No.,Maybe.,,35107,O,"2, 3, 1",preference; descriptive
-q35995,Have you ever lied to a partner about your sexual history?,Yes,No,I've never discussed my sexual history in this way,,23845,M,[3],descriptive
-q15889,Do you put more weight in science or faith?,Science,Faith,Equally in both,,39488,O,"2, 3, 1",religion/superstition
-q70218,"You are interested in someone, and you discover that they were a nerd in high school.  How does this affect your opinion of them?",Favorably.,Unfavorably.,It makes no difference.,,25059,O,"2, 3, 1",preference
-q80621,How often do you smoke cigars?,Frequently.,Occasionally.,Never.,,23238,O,,descriptive
-q82566,Do you like coffee?,Yes.  I need it to function.,"Yes, but I can do without it.",No.,,28548,O,,descriptive
-q82681,"If I had to choose among the following for an ideal romantic partner, I'd choose:",Someone attractive and kind.,Someone smart and kind.,Someone attractive and smart.,,28205,N,,preference
+q6499,"If I saw someone checking out my significant other, I'd feel:",flattered / proud,protective / concerned,unchanged,,27195,O,"1, 3, 2",sex/intimacy; preference; descriptive
 q9379,Would you ever date or mess around with a good friend's ex?,"Yes, why not?",No,"Yes, but only with my friend's permission",,31625,O,"3, 1, 2",sex/intimacy
-q38196,"Regardless of where you grew up or now live, which of the following best describes the way you see yourself at heart?",I am an urban or city person.,I am a suburbanite.,I am small town or country person.,,26385,O,,descriptive
-q39210,Do you believe you've lived past lives?,"Yes, I am confident I have.","No, I do not believe this is possible.","Maybe, but there is no way to really know.",,24152,O,"2, 3, 1",religion/superstition
-q40194,How important is it that your partner be willing and able to participate in meaningful philosophical conversations?,Extremely important.,Somewhat important.,Not at all important.,,39481,O,,preference
-q40288,How trusting are you where it concerns your government?,Completely.,Somewhat.,Not at all.,,27329,O,,politics; descriptive
-q41393,"In a potential mate, is ditzyness a turn-on or a turn-off?",Turn-on. I find scatterbrained people cute.,Turn-off. I find easily-confused types annoying.,I'm neutral / it depends on their other traits.,,32249,O,"2, 3, 1",preference
-q41850,How important is it for you to make physical contact when showing affection for someone?,Very important.,Somewhat important.,Not important.,,41417,O,,preference
-q19898,Do you enjoy finding out what makes things work the way they do?,I'm an information sponge,Sometimes,"As long as it works, who cares why?",,41310,O,,preference; descriptive
-q19931,Straight women who kiss or fondle each other in clubs in the hopes of attracting men are...,Incredibly hot!,Just having some girlish fun.,Profoundly annoying.,,38427,O,,preference; opinion
-q20298,Compassion is:,A sign of strength,A sign of weakness,Neither,,26062,N,,opinion
-q63010,Do you have names planned out for future children?,Yes.,No.,"No, and I'm not planning on any future children.",,30625,O,,descriptive
-q66506,How important to you is a potential match's sense of humor?,Very important.,Somewhat important.,Not important.,,41629,O,,preference
-q69186,Can you remember the names of everyone you've ever had sex with?,Yes.,No.,I've never had sex with anyone.,,29398,M,[3],descriptive
-q14853,How do you feel about baseball?,It's my life,I can take it or leave it,I think it's dumb,,23026,O,,preference
-q15414,"Have you used psychedelic drugs (LSD, mescaline, peyote, etc.) or would you like to?","Yes, I have used psychedelic drugs.","No, I have not used them and I would not try them.","No, I have not used them but I would try them.",,30270,O,"2, 3, 1",descriptive; preference
-q15704,What is your opinion of sarcasm?,I like it or love it.,It's okay.,Sarcasm is formulaic and lame.,,33187,O,,opinion
-q20418,Do you keep a budget (of your finances)?,Yes,No,Sometimes,,43634,O,"2, 3, 1",descriptive
-q20981,Genital piercings:,Make me hot,"Ouch, no thanks.",No opinion / Not sure,,29012,O,"2, 3, 1",preference
-q43304,Do you get angry when you lose a game?,Usually,Sometimes,Never,,27438,O,,descriptive
-q45598,Do you enjoy provoking people just to get a response.,Often.,Sometimes.,Never.,,26726,O,,descriptive
-q46563,Assume you have a homosexual friend who is the same gender as you.  Would it bother you if they hugged you?,Yes.,No.,Only if I thought the hug was more than friendly.,,33991,O,"2, 3, 1",preference; descriptive
+q16862,Beards: cool or ugly?,Cool,Ugly,Depends,,29561,O,"2, 3, 1",opinion
 q17017,Do you litter?,Often,Rarely,Never,,35221,O,,descriptive
 q17457,Have you ever spent more than 8 hours straight playing video games?,Yes,No.,Anyone who does is a loser.,,28639,M,[3],descriptive
 q18504,Do you have a dark and morbid sense of humor?,Yes,No,Occasionally,,30286,O,"2, 3, 1",descriptive
-q55744,"If you were going to have a child, would you want the other parent to be of the same ethnicity as you?",Yes.,No.,This would not be an important factor to me.,,40629,O,"2, 3, 1",descriptive; preference
-q56606,How interested would you be in knowing the details of a partner's sexual history?,Very interested.,Somewhat interested.,Not interested.,,29116,O,,sex/intimacy; descriptive
-q60756,"If your partner wanted you to say a specific phrase during sex, would you?","Yes, I'd say anything they want me to.","No, I wouldn't.","Maybe, it would depend upon the phrase.",,30021,O,"2, 3, 1",sex/intimacy
-q60843,"If you were to get married, would you want your partner to change his or her last name to yours?",Yes.,No.,I would want them to make their own decision.,,36563,O,"2, 3, 1",descriptive; preference
-q61133,Would you be comfortable masturbating in front of a partner?,Yes.,No.,I don't masturbate.,,23091,M,[3],sex/intimacy
+q20021,Which of these options most closely describes what you're looking for in your next relationship?,Someone to come home to,Someone to go out with,Someone for tonight,,40763,N,,preference
+q78,"Generally, do you enjoy being drunk?",Yes,No,"I don't know, because I've never been drunk.",,30487,M,[3],preference
+q338,How does your maturity level compare with most people your age?,I'm more mature,I'm average,I'm less mature,,29286,O,,descriptive
+q366,"When you're not in a serious relationship, what do you prefer?",Dating multiple people at once,Dating one person at a time,"I only have serious relationships, I don't 'date'",,25073,O,,preference
+q36790,Let's say you are in line at a grocery store and have many items.  The person behind you just has only one or two.  Do you offer to let them go ahead of you?,Yes.  Always.,"Yes, unless I am otherwise in a hurry.",No.  Never.,,27742,O,,descriptive
+q38051,How often do you gamble?,Often.,Rarely.,Never.,,27266,O,,descriptive
+q38173,Do you enjoy watching educational programming on television?,"Yes, often.","Yes, on occasion.","No, never.",,25991,O,,descriptive
+q318,How important is money/wealth for you in a match?,Very important,Somewhat important,Not important at all,,35375,O,,preference
+q30607,Is it okay to answer your cell phone while out with a friend or on a date?,Of course. Why wouldn't it be?,"Friend, yes. Date, no.","No, that's just rude.",,28810,O,,opinion
+q35276,How much communication is ideal during sex?,A lot! It's all about the talk.,Just enough to get things right.,None. Shut up so I can concentrate.,,28451,O,,sex/intimacy
+q27672,Commitment to personal growth is:,For wimps.,Critically important.,Sort of important,,28053,O,"2, 3, 1",opinion
+q28831,"On weekends / days off, do you like to get out and make the most of the day, or do you prefer to sleep late and relax?",Get up and do something,Sleep late and relax,It varies,,30215,O,"2, 3, 1",preference
+q323,How confident are you in your sexual abilities?,Super confident,Confident,Not really confident,,31389,O,,sex/intimacy; descriptive
+q59597,"If given the chance, would you rather learn to play a musical instrument or learn to speak another language?",Play a musical instrument.,Speak another langauge.,Neither.,,23486,N,,preference
+q20062,"While in the middle of the best lovemaking of your life, if your lover asked you to squeal like a dolphin, would you?",Absolutely.,No way.,The best?  Maybe...,,23496,O,"2, 3, 1",sex/intimacy
+q39576,How important is it for you to give expensive gifts on a regular basis when in a relationship?,Very important.,Somewhat important.,Not at all important.,,24735,O,,preference
+q40441,"If you were to die, would whoever goes through your personal belongings be shocked by what they find?",Yes.,No.,Maybe a little bit.,,41572,O,"2, 3, 1",descriptive
+q67418,What is your opinion of couples who frequently say 'I love you' to one another?,It's sweet.,It's annoying.,I'm indifferent to this.,,24021,O,"2, 3, 1",opinion
+q29,Would you rather:,be tied up during sex,do the tying,avoid bondage all together,,30567,N,,sex/intimacy; BDSM
+q30,Would you like to receive pain during sex?,"Yes, lots and lots","Yes, some",No,,32084,O,,sex/intimacy; BDSM
+q32,Group sex (with 3 or more people):,I have tried it.,It seriously interests me.,I have little or no interest.,,32816,O,,sex/intimacy
+q612,Should evolution and creationism be taught side-by-side in school?,"Yes, students should hear both sides","No, creationism has no place in schools","No, evolution has no place in schools",,44907,O,"2, 1, 3",politics; religion/superstition
+q637,Have you ever had sex in a place where there was a high risk of being caught?,Yes,"No, but it sounds like fun","No, I don't think I could do it",,28379,O,,sex/intimacy; preference; descriptive
+q531,"Would you rather play Scrabble, go out dancing, or get drunk?",Scrabble,Dancing,Booze,,29621,N,,preference
+q411,"Do humans and modern primates (apes, chimps, etc) share a common evolutionary ancestor?",Yes,No,Unsure,,33037,O,"1, 3, 2",religion/superstition
+q365,"How much would you enjoy hosting a big, crazy party?",A lot,Not that much,Not at all,,23047,O,,preference; opinion
+q5764,Sharing a toothbrush with your partner is:,Utterly disgusting,"Okay, sometimes",A sign of closeness,,26521,O,,sex/intimacy; preference
+q32657,Would you develop a new hobby/cultivate a new interest just to have something in common with your partner?,"Sure, it's good to do stuff together","No, we should maintain our own identities","Maybe, but only if it seemed cool",,26543,O,"2, 3, 1",preference; descriptive
 q62140,Does it bother you when people are late?,"Yes, always.","No, never.","Sometimes, it depends upon the circumstances.",,25559,O,"2, 3, 1",descriptive; preference
-q53402,Do you usually feel the need to shower or bathe after having sex?,Yes.,No.,I've never had sex.,,24920,M,[3],sex/intimacy
-q53540,"Regardless of your actual age, do you consider yourself to be an adult?",Yes.,No.,Only some of the time.,,35857,O,"2, 3, 1",descriptive
-q53611,How often do you meditate?,Frequently.,Rarely.,Never.,,40623,O,,descriptive
-q54052,"In general, how content are you with your own appearance?",Very content.,Somewhat content.,Not very content.,,25559,O,,descriptive
-q54695,How clear to you are your goals in life?,Very clear.,Somewhat clear.,Not at all clear.,,25418,O,,descriptive
+q24282,"Outside of work and school, how inclined are you to investigate something that interests you?",Very inclined,Somewhat inclined,Not inclined,,35888,O,,descriptive
+q24333,Are you squeamish about sharing food or beverages with the person you're dating?,Yes,No,Only at first,,27513,O,"2, 3, 1",descriptive
+q25294,"Would you date someone who was currently in a relationship, knowing that you would 'be a secret?'","Sure, why not?",Depends on the person.,Absolutely NOT.,,25829,O,,preference
+q26052,Would you date someone who was very into fantasy novels?,Yes,Maybe,"No, what a geek!",,25441,O,,preference
+q416236,How do you feel about documentaries?,Yay!,Okay,NO.,,43521,O,,descriptive
+q13100,Are you annoyed by tardiness?,Yes,No,I'm the one who's always running late.,,23351,M,[3],descriptive
+q23507,"Could you date someone who never, ever, threw anything away?","Yes, junk is cool",No,I don't know,,24090,O,"2, 3, 1",preference
+q30271,Does silence make you uncomfortable?,Yes,No,Depends on the situation,,27785,O,"2, 3, 1",descriptive
+q31488,"If you were dating somebody that you met online, would you be reluctant to tell your friends?","Yes, I would be reluctant.","No, not at all.","A little, but I would be honest with them.",,26788,O,"2, 3, 1",descriptive; preference
+q31581,Your significant other's ex is coming into town and he/she wants to go out to dinner with them alone. How do you react?,"Sure, no problem.","Not thrilled, but go ahead.",No way.,,42407,O,,preference
+q31877,"When men show extra courtesy toward women (opening doors, pulling out chairs, etc.), this is:",Admirable and desirable. Chivalry's not dead.,Unnecessary but appreciated.,"Sexist and insulting, women are perfectly capable.",,37183,O,,politics; opinion
+q27747,"Do you believe that art and literature courses are important to students, even if they are majoring in other fields?","Yes, absolutely.","I like them, but don't know if they're important.","No, why waste their time?",,23326,O,,politics; opinion
+q82681,"If I had to choose among the following for an ideal romantic partner, I'd choose:",Someone attractive and kind.,Someone smart and kind.,Someone attractive and smart.,,28205,N,,preference
+q27921,Do you believe your country would be more or less safe if every adult owned a gun?,More safe,Less safe,Neither / unsure,,42307,O,"2, 3, 1",politics; opinion
+q28478,"If a blind date used a coupon while paying for dinner, how would you feel?",Negative. That's tacky/cheap.,Positive. Very sensible.,I don't care either way.,,23847,O,"2, 3, 1",descriptive
+q28918,Would you do a striptease for your mate?,Yes,No,Maybe / Unsure,,24385,O,"2, 3, 1",sex/intimacy
+q29032,Which of the following types of intelligence do you most value?,Logical / Mathematical,Social / Interpersonal,Visual / Spatial / Artistic,,35050,N,,preference
+q30115,"Have you ever gotten, or would you ever get, a piercing below the belt?",I have.,I would.,I wouldn't.,,25520,O,,descriptive
+q70218,"You are interested in someone, and you discover that they were a nerd in high school.  How does this affect your opinion of them?",Favorably.,Unfavorably.,It makes no difference.,,25059,O,"2, 3, 1",preference
+q80621,How often do you smoke cigars?,Frequently.,Occasionally.,Never.,,23238,O,,descriptive
+q82566,Do you like coffee?,Yes.  I need it to function.,"Yes, but I can do without it.",No.,,28548,O,,descriptive
+q63010,Do you have names planned out for future children?,Yes.,No.,"No, and I'm not planning on any future children.",,30625,O,,descriptive
+q66506,How important to you is a potential match's sense of humor?,Very important.,Somewhat important.,Not important.,,41629,O,,preference
+q69186,Can you remember the names of everyone you've ever had sex with?,Yes.,No.,I've never had sex with anyone.,,29398,M,[3],descriptive
+q86366,Could you have respect for someone after having sex with them on the first meeting/date?,Yes.,No.,"Maybe, depending upon the circumstances.",,34988,O,"2, 3, 1",sex/intimacy; descriptive
+q20725,Do you space out or daydream a lot?,All the time,Rarely / never,Sometimes,,43906,O,,descriptive
+q20778,You're up against a nearly impossible challenge. Your ideal partner:,pushes you hard to succeed,reminds you to be realistic,"stands back, but comforts you if you fail",,29761,N,,preference
 q16053,How willing are you to meet someone from OkCupid in person?,Totally willing!,"Hesitant, but I'd certainly consider it.",I'm not interested in meeting in person.,,58043,O,,preference
 q16317,Would you ever date someone that is HIV positive?,Yes,No,I don't know,,28385,O,"2, 3, 1",preference
 q16371,Someone in an open relationship asks you out on a date. You:,Refuse / Aren't interested in open relationships.,"Are hesitant, but would consider it.",Accept / Are open to non-monogamous relationships.,,24844,O,,preference
-q16862,Beards: cool or ugly?,Cool,Ugly,Depends,,29561,O,"2, 3, 1",opinion
+q18530,Do you want your partner to be kinkier than you?,Yes,No,Not possible,,37678,M,[3],sex/intimacy
+q18547,Guys with facial hair…,Great!,Okay.,Gross!,,25485,O,,preference; opinion
+q18594,"Do superficial people, who place a high emphasis on physical appearance, annoy you?",Yes,No,Sometimes,,29880,O,"2, 3, 1",descriptive
+q19815,Your significant other is perfectly content with their minimum wage job and has no plans to look for more challenging/better paying work. Is this a problem?,"Yes, I wouldn't be able to tolerate that.","Somewhat, but it's their life.","No, I don't mind.",,31022,O,,preference
+q167,Do you recycle?,Almost always,Sometimes,Rarely or not at all,,24586,O,,politics
+q16820,What is your opinion on Walmart?,Retail heaven,Devil incarnate,Just another corporation,,23325,O,"2, 3, 1",opinion
+q86184,Do you keep your sexual exploits private?,"Yes, always.","No, I am an open book.",Sometimes.,,27490,O,"2, 3, 1",sex/intimacy; descriptive
+q35995,Have you ever lied to a partner about your sexual history?,Yes,No,I've never discussed my sexual history in this way,,23845,M,[3],descriptive
+q86544,Which of the following has the biggest influence on your behavior?,"Reason, Observation, Empiricism, Trial-And-Error.","Tradition, Faith, Upbringing, Heritage.","Emotion, Intuition, Instinct.",,28102,N,,religion/superstition; descriptive
+q20298,Compassion is:,A sign of strength,A sign of weakness,Neither,,26062,N,,opinion
+q20418,Do you keep a budget (of your finances)?,Yes,No,Sometimes,,43634,O,"2, 3, 1",descriptive
+q20981,Genital piercings:,Make me hot,"Ouch, no thanks.",No opinion / Not sure,,29012,O,"2, 3, 1",preference
+q21175,"Are you an intellectual? In the context of this question, intellectual means someone who loves learning, often for its own sake.",Yes,No,I find learning boring,,31729,O,,descriptive; cognitive
+q23233,Do you have time for a committed relationship in your life at this point?,"Yes, absolutely",Probably not,No,,23160,O,,descriptive
+q19898,Do you enjoy finding out what makes things work the way they do?,I'm an information sponge,Sometimes,"As long as it works, who cares why?",,41310,O,,preference; descriptive
+q19931,Straight women who kiss or fondle each other in clubs in the hopes of attracting men are...,Incredibly hot!,Just having some girlish fun.,Profoundly annoying.,,38427,O,,preference; opinion
 q19140,"Personally, is sex in a public place hotter than indoor sex?",Yes,No,I'm Not Sure / Wouldn't know,,23411,O,"2, 3, 1",sex/intimacy
 q19265,A college-level education is...,Necessary,"Nice, but not mandatory",Unnecessary,,39043,O,,preference
-q46927,Would you consider dating someone who has vocalized a strong negative bias toward a certain race of people?,Yes.,No.,It depends on which race.,,40350,O,"2, 3, 1",preference
-q48325,How important are academic achievements to you?,Very important.,Somewhat important.,Not important.,,28673,O,,preference; descriptive
-q48753,Do you like to cuddle?,Yes.,No.,Sometimes - It depends.,,47789,O,"2, 3, 1",preference
-q59597,"If given the chance, would you rather learn to play a musical instrument or learn to speak another language?",Play a musical instrument.,Speak another langauge.,Neither.,,23486,N,,preference
-q67418,What is your opinion of couples who frequently say 'I love you' to one another?,It's sweet.,It's annoying.,I'm indifferent to this.,,24021,O,"2, 3, 1",opinion
-q7060,Are politics interesting?,Yes,No,Sometimes,,27093,O,"1, 3, 2",politics; preference; opinion
-q85315,Have you been faithful in all of your past relationships?,Yes.,No.,I haven't had a past relationship.,,25445,M,[3],descriptive
-q9628,Biting?,No,Yes,Let's break skin,,28487,O,,sex/intimacy
-q26525,Can overweight people still be sexy?,Always,Yes,No,,30095,O,,preference; opinion
-q122,How much does physical attractiveness matter to you in a match?,A lot,A little,Not at all,,36797,O,,preference
-q126,What kind of shape are you in?,Great,Average,Shitty,,26252,O,,descriptive
-q128,Do you have any tattoos?,I have 1 or more BIG tattoos,I have 1 or more LITTLE tattoos,I have no tattoos,,40450,O,,descriptive
-q132,Can you run a mile without stopping?,Yes,No,Yes - And More,,22862,O,"3, 1, 2",descriptive
-q39576,How important is it for you to give expensive gifts on a regular basis when in a relationship?,Very important.,Somewhat important.,Not at all important.,,24735,O,,preference
-q40441,"If you were to die, would whoever goes through your personal belongings be shocked by what they find?",Yes.,No.,Maybe a little bit.,,41572,O,"2, 3, 1",descriptive
-q29,Would you rather:,be tied up during sex,do the tying,avoid bondage all together,,30567,N,,sex/intimacy; BDSM
-q30,Would you like to receive pain during sex?,"Yes, lots and lots","Yes, some",No,,32084,O,,sex/intimacy; BDSM
-q11,How does the idea of being slapped hard in the face during sex make you feel?,Horrified,Aroused,Nostalgic,Indifferent,28860,N,,sex/intimacy
-q53299,Which type of education would you prefer for your children?,Public.,Private.,Religious.,Home.,25113,N,,religion/superstition; preference
-q46780,Do you leave the lights on after leaving a room when they are no longer necessary?,Always - I don't think about turning lights off.,Usually - This isn't very important.,Sometimes - I try to save energy but do forget.,Rarely or never - That would be wasteful.,27123,O,,descriptive
-q44354,Do you enjoy long camping trips? (longer than 3 nights),I don't like to camp.,"I've never camped, but would like to.","I like to camp, but not long trips.",I love long camping trips.,27526,O,,preference
-q42918,What volume level do you usually prefer when listening to music?,Loud or louder.,Somewhere in the middle.,Soft and in the background.,I prefer to not listen to music.,24644,O,,preference
-q42120,"Are you a 'double dipper'?  In other words, do you ever take a bite of food and then dip it back into a shared sauce or dip?","Yes, I double dip indiscriminately.","Yes, but only with family or close friends.","Yes, but only with a partner.","No, never.",22928,O,,descriptive
-q41099,"Right this minute, how clean is your main personal bathroom, (say the one you use every morning when you wake up in your own bed)?","Spotless, shiny, germ-free, clean clean clean.",Clean-ish but could use a quick touch-up.,"Not awful, but it could use a good cleaning.",Disgusting! even I cringe when I have to use it!,27184,O,,descriptive
-q39373,How often do you do things out of spite?,Very often.,Sometimes.,Rarely.,Never.,31964,O,,descriptive
-q23305,How many countries have you visited?,I have never left the country I live in now.,Between 2 and 5 countries.,Between 6 and 10 countries.,More than 10 countries.,24592,O,,descriptive
-q88,How messy are you?,I'm very messy,I'm average,I'm mostly organized,I'm compulsively neat,26579,O,,descriptive
-q85835,Which is worse: starving children or abused animals?,Starving children.,Abused animals.,"Neither, both are good.","Neither, they are equally bad.",38702,O,"3, (1, 2), 4",politics; opinion
+q26582,Would you ever eat something out of the trash?,Yes,Maybe (if it's still good),No,,26861,O,,descriptive
 q82301,"When you first talk online with someone, which of the following would you prefer to talk about?",Sex.,Politics or current events.,Activities.,Personal history or experiences.,24223,N,,preference
-q665,Are you fetish-friendly?,Bring out the toys!,"Never tried it, but I'm open-minded.",Not sure/don't know what they really are.,Ew!,27406,O,,sex/intimacy
-q61281,How often do you 'take it out' on other people when you're having a bad day?,Always.,Frequently.,Occasionally.,Never.,31203,O,,descriptive
+q85835,Which is worse: starving children or abused animals?,Starving children.,Abused animals.,"Neither, both are good.","Neither, they are equally bad.",38702,O,"3, (1, 2), 4",politics; opinion
+q88,How messy are you?,I'm very messy,I'm average,I'm mostly organized,I'm compulsively neat,26579,O,,descriptive
 q53629,Which is your favorite season?,Summer.,Fall.,Winter.,Spring.,23790,N,,descriptive; preference
-q81,How much do you go 'clubbing' (out dancing in bars)?,Lots,Sometimes,Rarely,Never,31984,O,,descriptive
-q80,What's your deal with harder drugs (stuff beyond pot)?,I do drugs regularly.,I do drugs occasionally.,"I've done drugs in the past, but no longer.",I never do drugs.,50107,O,,descriptive
-q79,What's your relationship with marijuana?,I smoke regularly.,I smoke occasionally.,"I smoked in the past, but no longer.",Never.,49796,O,,descriptive
-q50352,"If you were going away for two weeks, how far in advance would you start packing?",I would pack at least two days before I leave.,I would pack on the day before I leave.,I would pack on the same day I leave.,I would not pack at all.,22873,O,,descriptive
-q49920,How spicy do you like your spicy food?,I like it extremely spicy.,I like it hot.,I like it a little spicy.,I prefer it be mild.,23697,O,,preference
-q49107,Which of the following would you rather discuss with someone you just met?,Musical preferences.,Political beliefs.,Philosophical beliefs.,Sports.,29721,O,,preference
-q49053,What was the duration of your longest romantic relationship?,More than five years.,One to five years.,Less than one year.,I've never been in a romantic relationship.,25779,O,,descriptive
-q48981,Consider the recent fictional movies you have watched.  Which of the following aspects do you find most disturbing?,Sex.,Violence.,Racial or cultural stereotyping.,None of the above disturbs me.,26709,N,,opinion
-q48953,"If you were visiting a new city, where would you be most excited to go?",Tourist attractions or entertainment venues.,Historically or culturally important places.,Places popular with the locals.,Home.,30729,N,,preference
-q19874,How long do your romantic relationships usually last?,0-6 months,6-12 months,12+ months,I've never been in a relationship,40948,M,[4],descriptive
-q19378,How are you most likely to show your partner you care?,Words: Tell them how much you appreciate them,Actions: Do something nice (like a date or errand),"Gifts: Buy them flowers, jewelery or a new gadget","Touch: Give them a hug, massage or kiss",40178,N,,sex/intimacy; preference; descriptive
-q18966,Do you prefer hardcore or softcore when it comes to your porn?,Hard!,Soft!,Both!,I don't like porn,24917,M,"2, 3, 1, [4]",sex/intimacy; preference
-q18875,How important is it to you that your partner smell good?,Very damn important,Important-ish,Less important than you think,I just don't care at all,43478,O,,preference
-q18834,"If you had to name your greatest motivation in life thus far, what would it be?",Love,Wealth,Expression,Knowledge,46158,N,,descriptive
-q55185,"In terms of birth order, which are you?",The oldest child.,The youngest child.,Somewhere in the middle.,All of the above.,23076,M,[4],descriptive
-q54127,Do you ever not feel like having sex because you feel too unattractive or too unappealing?,"Yes, frequently.","Yes, sometimes.","Yes, but only rarely.","No, never.",26208,O,,descriptive
-q53965,"If you discovered a spider on the wall in your bedroom, which would you do?",Ignore it.,Kill it.,Catch it and put it outside.,Find someone else to deal with it.,30959,N,,descriptive
-q52827,Would you consider connecting with someone whose relationship status is 'seeing someone' or 'married'?,Yes to both,No to both,Yes to 'seeing someone' only,Yes to 'married' only,25032,O,"2, (3, 4), 1",preference
-q52728,Which of these four is sexiest?,Someone who is good with language(s).,Someone who is logical or mathematical.,Someone who is physically skilled.,Someone who is musically skilled.,28519,N,,preference; opinion
-q52682,"If one of your potential matches were overweight, would that be a dealbreaker?","Yes, even if they were slightly overweight.","Yes, but only if they were obese.",No.,"No, in fact I prefer overweight people.",40495,O,,preference
-q50564,Have your sexual interests become kinkier as you've grown older?,Yes.,"No, they haven't changed much.","No, just the opposite.","No, I have no sexual interests.",26137,M,[4],sex/intimacy
-q60901,"If you were really, really drunk, which of the following would you be more likely to do?",Kiss someone.,Hit someone.,Complain to someone.,I'm not sure / I've never been really drunk.,28506,N,,descriptive
-q60308,"Say you're with someone you really care about, and they reveal their deepest, darkest secret. Which of the following would be most likely to scare you away?",A sexual fetish.,A bad temper.,A mild mental illness.,A history of bad credit.,26488,N,,preference; descriptive
-q60145,Are you still in love with one or more of your former partners?,Yes - One of them.,Yes - More than one.,No.,No - I've never been in love with a partner.,24232,O,"2, 1, 3, 4",descriptive
-q57718,"Immediately after having sex with a partner, which of the following sounds most appealing?",Cuddling with them.,Doing my own thing.,Sleeping.,Masturbating or having sex again.,23153,N,,sex/intimacy
-q18609,Can you cook?,"Yes, I'm a culinary genius.","Yes, with a cook book.","No, but I try.","No, there's always fast food.",30481,O,,descriptive
-q18212,How much do you usually tip a server who did a fine job?,Around 10% or less,10-15%,15-20%,Over 20%,28793,O,,descriptive; preference
-q17582,How are your teeth?,Perfect,Okay,Kinda Scraggly,Fucked Up,23548,O,,descriptive
-q18763,Do you consider yourself to be an honorable person?,"Yes, I always try to do the right thing.","Sometimes, it depends on the situation.","No, not really.","Are you kidding? I lie, cheat , AND steal.",23284,O,,descriptive
-q45835,Which is your favorite weather?,Sun,Rain,Snow,Cloudy,24105,N,,preference
-q45428,Do you say 'Thank you' to wait staff when served in a restaurant?,Always.,Most of the time.,Occasionally.,Never.,36781,O,,descriptive
-q44595,Tattoos on a woman's lower back area:,Sexy,Okay,Tramp stamps,Something I have no opinion on,27939,N,,preference; opinion
-q44384,Which best represents your opinion of same-sex relationships?,"Girl-on-girl is okay, but guy-on-guy is wrong.","Guy-on-guy is okay, but girl-on-girl is wrong.",All same-sex relationships are wrong.,It's all fine by me.,28836,O,"4, (1, 2), 3",politics
-q43261,How much influence or control do your parents have over your life?,I am my own person.,I consider their opinion but go my own way.,I almost always do what my parents think is best.,I always do what my parents say.,44620,O,,descriptive
-q20976,You're in a new relationship and your partner admits that they have had 14 sexual partners. Does that sound like a lot to you?,"Yes, and it makes me uncomfortable.","I guess, but It doesn't change how I feel.",That seems like an average number.,"No, that's nothing.",34627,O,,opinion
-q20930,Rate your self-confidence:,"Very, very high",Higher than average,Average,Below average,53737,O,,descriptive
-q20889,What's your opinion of the phrase 'making love' when it refers to sex?,It's beautiful.,It's hokey and overly sentimental.,It refers to a very specific kind of sex.,It's no better or worse than any other.,36901,N,,opinion
-q20818,"Once you take a moral position, can anything be said or done to change your mind?","Yes, life is a big gray area anyway.","No, some things are just Right or Wrong.",Maybe. It depends on the issue.,"Maybe, but it would take a lot.",28211,O,"2, (3, 4), 1",politics; religion/superstition; descriptive
-q20519,In a relationship I like to discuss politics with my partner.,All the time!,Sure. I'm interested in sharing our beliefs.,Sometimes. It depends.,Hardly. Politics are boring or personal.,40256,O,,politics; preference
-q15742,How much do other people's opinions of you influence your decisions?,A lot,Some,Very little,Not at all,28241,O,,descriptive
-q15698,How do you feel about kids?,Kids are precious - they love me and I love them!,"They're okay, but keep the unruly ones at bay.","God, how revolting. *shudder*",I'm indifferent.,39676,O,"3, (2, 4), 1",preference
-q15418,"In your current music collection, do you have more independent artists or big name superstars?",Independent,Big name superstars,A mix of both,I don't have a music collection,24157,M,"2, 3, 1, [4]",descriptive
-q15030,Which would you prefer your ideal match to be more into?,Sports,Books,Music,Movies,35747,N,,preference
-q67641,How important to you is being with family during holidays?,Very important.,Somewhat important.,Not important.,I have no family.,30745,M,[4],descriptive
-q66827,"During a romantic evening at your significant others' house, he or she puts on a slow song and asks you to dance. How would you respond?",Very romantic! I'm up for it!,"I think its corny, but I'll do it anyway!",Not my kinda thing.,I'm not sure.,28504,O,"3, 4, 2, 1",preference
-q66548,Which is closest to your reaction to foul language?,It doesn't bother me at all.,It's ok as long as it isn't every other word.,It bothers me a little.,It bothers me a lot.,36039,O,,preference
-q64334,Imagine that your partner does not enjoy performing oral sex and refuses to ever perform it on you. How disappointed would you be?,Extremely disappointed.,Somewhat disappointed.,Slightly disappointed.,Not at all disappointed.,26159,O,,sex/intimacy
-q63114,How do you think your sex drive compares to what is typical for other people of your age and gender?,My sex drive is higher than average.,My sex drive is about average.,My sex drive is below average.,I'm insatiable.,38203,O,"4, 1, 2, 3",sex/intimacy
-q63068,Approximately how many hours per week do you dedicate to spiritual activity?,Zero.,One hour or less.,One to four hours.,More than four hours.,23133,O,,religion/superstition
-q20212,Do you feel guilty or bad after having sex?,Always,Sometimes,Never,I'm still a virgin.,30735,M,[4],sex/intimacy; religion/superstition; descriptive
-q20135,How do you feel about falling in love?,I love it and want it very much,I try to avoid it,I like to just let it happen,I'm indifferent / not sure,44683,O,"2, (3, 4), 1",sex/intimacy; preference
-q41953,About how long do you want your next relationship to last?,One night,A few months to a year,Several years,The rest of my life,48614,O,,preference
-q38912,How do you feel about germs?,Obsessed: I bleach anything I can't trust!,Careful: I wash my hands and cover my sneezes.,Polite: I always wash up when someone's watching.,Unconcerned: I don't actively lick doorknobs.,24415,O,,descriptive
-q38423,What do you usually wear when you sleep?,Pajamas.,Underwear.,Nothing.,Something else.,26417,M,[4],descriptive
-q38223,Do you like to go clubbing?,"Yes, I prefer to go alone.","Yes, I prefer to go with a date.","Yes, I prefer to go with friends.",No.  I do not like to go clubbing.,27207,N,,preference
-q37693,"Would you be willing to date someone who plays video games almost every day, for at least 2 hours?","Yes, I'd be playing with them.","Yes, but I would not play that much.","Yes, but I don't like video games.",No.,36165,O,,preference; descriptive
-q8865,Are you currently employed?,"Yes, I have a fulltime job",No,Part time,I'm a student,31950,M,"2, 3, 1, [4]",descriptive
-q83480,Which pubic hair style do you prefer for a partner?,Natural.,Neatly trimmed.,Completely shaven.,It doesn't matter.,30719,M,[4],preference
-q83184,"If your partner made a lot of noise while enjoying sex, would this be a turn-on or turn-off for you?",Turn on.,Turn off.,"Either, depending upon how they sound.",It would make no difference.,28472,O,"2, (3, 4), 1",sex/intimacy
-q82528,"If you had your own private hot tub, would you go nude in it?","Yes, always.","Yes, but only when alone or with someone special.","Yes, but only when alone.","No, never.",27318,O,,descriptive
-q79635,How would you feel if someone called you 'good girl' or 'good boy' during sex?,Positive.,Negative.,Indifferent.,It would depend on which of the two I was called.,23812,O,"2, (3, 4), 1",sex/intimacy
-q75677,Which of the following character flaws would you be LEAST tolerant of in a potential partner?,Moodiness.,Dependency.,Jealousy.,Apathy.,28404,N,,descriptive; preference
-q71315,Do you like to leave music on while you sleep?,Yes.  I can't sleep without it.,"Yes, but I don't need it to fall asleep.","No, but I can deal with it if my partner does.",No.  I can't sleep with music on.,26815,O,,descriptive
-q70302,"Of the following, which do you spend the most time doing while taking a bath or shower?",Washing and/or conditioning.,Shaving.,Relaxing.,Masturbating.,24254,N,,descriptive
-q15752,How important is voting to you?,Extremely important,Very important,Not so important,Not at all important,31818,O,,politics
-q15743,How do you feel about people with past addictions?,Completely uninterested,Extremely hesitant,A little hesitant,Totally fine,25710,O,,preference
-q36666,"Of these four educational subject areas, which is your favorite?",Language,Mathematics,Science,History,23021,N,,descriptive; cognitive
-q36045,Are you ready to settle down and get married right now?,Absolutely.,No way.,"Get married yes, settle down no.","Get married no, settle down yes.",35186,O,"2, (3, 4), 1",descriptive
-q35955,How would you feel if your significant other made more money than you?,Very comfortable,Somewhat comfortable,Somewhat uncomfortable,Very uncomfortable,24997,O,,descriptive
-q35862,"When you are sleeping, do you prefer:",A cold room,A cool room,A warm room,A hot room,29945,O,,preference
-q35660,How often are you open with your feelings?,Always,Usually,Rarely,Never,49489,O,,descriptive
-q35520,"Does netspeak (e.g., afk, brb, How RU?, lol, rotfl, ttyl, etc.) bother you?",Yes.,No.,Some of the time - It depends.,I don't know.,25830,O,"2, (3, 4), 1",descriptive
-q35475,"When in a relationship, what importance do you place upon celebrating weekly or monthly anniversaries?",High.,Moderate.,Low.,None.,28563,O,,preference
-q35415,"How would you feel if a significant other forgot your birthday, nameday, anniversary, or something else similarly important to you?",Indifferent.,Disappointed.,Annoyed.,Angry.,23380,N,,descriptive
-q34113,"How do you feel about government-subsidized food programs (free lunch, food stamps, etc.)?",No problem,"It's okay, if it is not abused",Okay for short amounts of time,Never - Get a job,31769,O,,politics
-q23293,"If you had to pick one of the following types of people for a significant other, which would it be?",Wholesome,A little on the slutty side,Crazy and colorful,Dark and mysterious,30939,N,,preference
-q86909,Are you generally able to forgive and forget?,Yes.,No.,It really depends on the circumstances.,"I can forgive, but I never forget.",28762,O,"2, (3, 4), 1",descriptive
-q86417,How long can you go without sexual release?,A day or less.,"More than a day, less than a week.",More than a week.,I have never had sexual release.,28829,O,,sex/intimacy; descriptive
-q85823,How much would you dress up for a first date with someone you met on OkCupid?,I'd go all out.,I'd try to look nice.,I wouldn't wear anything special.,"It would vary, depending upon their profile.",25050,M,[4],descriptive
-q13032,Would you ever consider dating a Catholic?,Yes,"Hesistant, but willing",No,Only if he/she was non-practicing,25643,O,"3, 4, 2, 1",religion/superstition; preference
-q12970,How often do you brush your teeth?,Twice or more a day,Once a day,Only on days I feel like it,Rarely / never,47673,O,,descriptive
-q12605,"Once you're intimate, how often would you and your significant other have sex?",Every day,About every other day,Once or twice a week,A few times a month or less,46098,O,,sex/intimacy
-q12503,"How often should your significant other buy you gifts, jewelry, or other things more expensive than, say, dinner, cards, or flowers?",Very frequently.,From time to time.,"On special occasions (birthdays, Christmas, etc.).",Never.,27820,O,,preference
-q1401,Have you ever had a sexual encounter with someone of the same sex?,"Yes, and I enjoyed myself.","Yes, and I did not enjoy myself.","No, and I would never.","No, but I would like to.",41622,O,"3, 4, 2, 1",sex/intimacy; descriptive
-q1185,"In a serious relationship, do you feel it's important to keep your significant other informed of the details of your day-to-day life?",Yes,No,Some,I don't do serious relationships,36121,M,"2, 3, 1, [4]",sex/intimacy; preference; opinion
-q1062,How frequently do you bathe or shower?,At least once a day.,Usually daily.  I skip some.,A couple times a week.,Once a week or less.,41649,O,,descriptive
-q321556,How often do you masturbate?,Once a day or more,A few times a week,A few times a month,A few times a year or less,28276,O,,sex/intimacy
-q221106,How often do you tweet?,All the time,Sometimes,Rarely,Never,42923,O,,descriptive; technology
-q221105,How often do you use Facebook?,I'm a very active user.,I'm a somewhat active user.,I rarely use it.,I never use it.,45978,O,,descriptive; technology
-q212814,How important are your political beliefs to you?,Very important,Somewhat important,A little important,Not at all important,44143,O,,descriptive
-q212813,Which best describes your political beliefs?,Liberal / Left-wing,Centrist,Conservative / Right-wing,Other,45107,M,[4],politics; descriptive
-q8155,"On average, which best describes how often you GET WICKED DRUNK?",Twice a week or more,Weekly / Bi-Weekly,Once every month or three.,Seldom or never.,38298,O,,descriptive
-q7239,What is the worst personality trait someone can have?,Arrogance,Being boring,Immaturity,No sense of humor,25390,N,,opinion
-q6722,Which best describes your personal feelings about sports?,Sports are a very important part of my life.,I play or watch sports often.,I play or watch sports occasionally.,I don't watch or play sports.,28517,M,[1],preference; descriptive
-q6350,How would you describe your body?,Slender,Average,Athletic,Voluptuous,30529,N,,descriptive
-q23147,Imagine you're having the perfect conversation with your ideal partner.  What are you doing?,Telling stories,Debating,Agreeing,Making plans,29873,N,,preference
-q23132,Do you like to play drinking games?,"Yes, they're totally sweet!","No, I think they're cheesy/lame","Not really, but I will on occasion","No, I don't drink",28277,M,"2, 3, 1, [4]",preference
-q23120,Which is most important to you in determining attractiveness?,Chest/Breasts,Butt/Legs,Face/Smile,Other,23911,N,,preference
-q22534,Would you ideally like to be married within the next 3 years?,Yes,No,Possibly,I'm already married,24139,M,"2, 3, 1, [4]",preference
-q22496,Board games?,What are board games?,"I love boardgames, let's go play.","Boardgames are okay, I guess.",I'd rather do something else.,23647,O,"2, 3, 4, 1",preference
-q22125,Do you prefer?,Slim Men/Women,Average Men/Women,Fuller Figured Men/Women,I Don't Care/Not Fussy,25779,M,[4],preference
-q22122,How long would you have to talk to someone online before you felt comfortable to meet?,I'd meet right away if their profile were cool,A few days,A few weeks,A few months [or never],34086,O,,preference
-q22021,Is your ideal match well-off financially (or at the very least someone who has high income potential)?,"Yes, it's very important.",It's somewhat important.,It's not very important,It's not important at all.,33917,O,,preference
-q21986,"Do you typically speak and write in a clear, precise manner?","Yes, almost always.","Yes, but only for classes/work.",It depends on my mood.,"Ha, my language is vague and messy.",24824,O,,descriptive
-q21793,"How often do you try new things (food, activities, music, whatever) that you've never tried before?","Several times per week, or more.",Several times per month.,Several times per year.,Rarely or never.,28351,O,,descriptive
-q21754,What is your opinion concerning strip clubs?,I would be there every day of the week if I could.,They can be fun every once and a while.,I do not really have an opinion/never been to one.,They're gross/disgusting/insulting/other.,28674,O,,preference; opinion
-q21411,"Do you enjoy intellectual debates on topics like politics, religion, science or philosophy?",I love to argue!,Sometimes.,It's usually boring or annoying.,I'm not smart enough.,34498,M,[4],preference; cognitive
-q33170,"If/when you have NO pressing obligations (employment, schooling, children, errands, bedtime, or other factors aside), at what time do you prefer to get up in the morning?",Early bird gets the worm! I'm up before the sun!,Pretty Early (6:00ish - 9:30ish AM),I like to sleep in a bit. (9:30ish AM - Noonish),Morning? Curse that AM light! (afternoon or dark),27163,O,,descriptive
-q32973,Are you an adventurous eater? Do you like to try new foods and ethnic cuisines?,"Yes, all the time.","Yes, if it's not too strange.",On rare occasions/I don't know.,"No, yuck.",33661,O,,descriptive
-q32855,Underarms can be a hairy subject. How do you maintain your pits?,"I let it grow, wild & free!",Occasionally I'll trim.,I shave consistently.,Whatever I feel like at the time.,27844,O,,descriptive
-q1122,How often do you use profane language?,Never,Once in a while,Often,Almost always,26641,O,,descriptive
-q1028,Is your ideal sex rough or gentle?,Rough,Gentle,I enjoy both equally,I'm a virgin,37097,M,"2, 3, 1, [4]",sex/intimacy
-q997,Are you a cat person or a dog person?,Cats,Dogs,Both,Neither,54746,N,,preference
-q17342,"On a typical night, what time do you go to sleep?",By 9pm,By 11pm,By 1am,Later,24309,O,,descriptive
-q1588,Do you like cats?  Would you consider owning a cat as a pet?,"Yes, I would love (or do own) a cat.","I'm not too into them, but I wouldn't mind one.","No, I dislike cats.","I like them, but I'm allergic.",30160,N,,preference; descriptive
-q13136,How important is art in your daily life?,Very Important,Somewhat Important,Not Important,I don't care,24839,M,[4],preference; descriptive
-q1712,How shy would you say you are?,Very shy,Kind of shy,Not really shy,Not at all shy,28992,O,,descriptive
-q31920,How do you feel about age differences in relationships?,I prefer someone close to my own age,I prefer someone older,I prefer someone younger,Doesn't matter to me,33749,M,"2, 1, 3, [4]",preference
-q31898,How do you feel about zoos?,I think they're lots of fun!,"Sure, they're fine.","Those poor, locked-up animals!",Zoos are boring.,24073,O,,preference; opinion
-q31840,I prefer to sleep:,Alone,"With my partner, but apart (not touching)",Touching my partner,Embracing / cuddling my partner,39117,O,,sex/intimacy
-q31821,Do you think the government should limit big chain stores to give small businesses a chance?,Yes,No,Maybe,Don't know/Don't care,24984,O,"2, (3, 4), 1",politics
-q31374,"Have you ever tried any sexual roleplaying, such as student/teacher or patient/nurse?",All the time. It really turns me on!,"Yes, on occasion. I have to be in the mood.","No, but it sounds interesting.","No, and it isn't going to happen. Ever.",29214,O,,sex/intimacy
-q30830,"Would you do something outrageous, stupid or adventurous simply because it would make a good story to tell later? (Assume there would be no serious consequences to your actions.)","Yes, whenever possible.","Yes, but nothing too crazy.","Maybe, depends on what and who with.","No, and please don't run with scissors.",26945,O,,preference; descriptive
-q30416,'Your a bitch!' What bothers you more about the above sentence?,The profanity,The grammar,They both bother me equally,Neither one bothers me,32676,O,"3, (1, 2), 4",descriptive
-q30384,How often do you wash your dishes?,As I use them.,Daily.,When I run out of clean utensils.,When the sink starts to smell funny.,28082,O,,descriptive
-q30169,Do you enjoy giving oral sex?,Love it!,It's okay.,Not so much.,Gross!,33482,O,,sex/intimacy
-q29829,How often do you keep your promises?,Always,Whenever possible,Usually,When convenient,49564,O,,descriptive
-q19125,Are you concerned with your image and the way others perceive you?,Very Much So,"Often, yes",A little bit,Not at all / I hate the mainstream,23440,O,,descriptive
-q18979,"If you found out your partner was cheating on you, would you cheat on them in revenge?","Yes, they have it coming!","No, I'd confront them.","No, I'd dump them on the spot.","Maybe, if one of their friends is cute.",28233,O,"3, 2, 4, 1",sex/intimacy; preference
-q18797,"Would you - for any reason - read your mate's email or pose as him/her online, without his/her knowledge and permission?","Yes, they shouldn't be keeping secrets anyway.","Yes, I'd be too curious not to.",Only if I suspected them of something.,"No, I'd trust them and that would be invasive.",38006,O,,preference
-q17778,Are you a beer snob?,Yes,No,"Not usually, but some beers I won't touch.",I don't drink.,25582,M,"2, 3, 1, [4]",descriptive
-q1128,Would you date someone who was already in a committed relationship with someone else?,"Yes, even in secret.","Yes, but only if everybody knew.","No, but I don't think it's inherently wrong.","No, it's wrong.",34032,N,,sex/intimacy; preference
-q29815,What do you think of reality television?,I love it!,It's alright.,I dislike it.,I have no opinion on reality television,23291,O,"3, 4, 2, 1",preference
-q29389,I talk about my previous relationships:,All the time,Occasionally,"Almost never, unless explicitly asked about them.","Never, even if explicitly asked about them.",26617,O,,descriptive
-q29384,Would you allow your partner to kiss you after performing oral sex on you?,Allow? I enjoy it.,Yes.,No.,It depends.,34342,O,,sex/intimacy
-q29055,How do you feel about living with a signficant other before marriage?,Nothing wrong with that.,"Maybe, depending on the situation.",I'm against that.,I'm not sure.,24121,O,"3, (2, 4), 1",religion/superstition; opinion
-q28545,"When having sex, do you like to have your hair pulled?","Yes, and hard!","Yes, but gently.",No way.,Don't know / Not sure.,28751,O,"3, 4, 2, 1",sex/intimacy
-q26720,How much do you spend per year for shoes?,Less than $100,$101 - $ 500,$501- $1000,More than a $1000,28570,O,,descriptive
-q26573,Do you like going to poetry readings?,Yes,Sometimes,Occasionally / I'd try it,No,29254,O,,preference
-q26405,Is it easy for you to achieve orgasm?,"Yes, with skill and sometimes patience","Yes, any time the wind picks up","No, and I find it somewhat frustrating","No, but don't worry, I'm enjoying myself",27131,O,,sex/intimacy; descriptive
-q26299,"What haircolor, or shade, do you prefer?","Dark (Black, Brown, Auburn)","Light (Blonde, Light Brown, Red)","Other (Neon, Obviously Dyed)",I have no preference,27402,N,,preference
-q30723,Which is the greatest compliment you could receive?,That you are beautiful/sexy/hot,That you are intelligent,That you are talented,That you are extremely fun to be with,25230,N,,preference; descriptive
-q30207,Is love overrated?,"Yes, absolutely.","Yes, a bit.","No, it's fine.","No, it's underrated.",29060,O,,opinion
-q28754,How long do you believe people need to be in a relationship before before getting married?,At least 2 years,At least 1 year,At least 6 months,Less than 6 months / no requirement,27565,O,,opinion
-q274,What's the highest level of education you've completed?,Graduate School,College,High School,Junior High,31706,O,,descriptive
-q21488,Do you pick up after yourself? Be honest.,Always.,"Yeah, when I have the time.","No, I live in filth.","No, my mom/roommate/partner mostly does it for me.",30108,O,"(3, 4), 2, 1",descriptive
-q542,Roughly how many books have you read in the past year?,Less than five,Between five and fifteen,Between sixteen and fifty,Fifty or more,25710,O,,descriptive
-q979,How many children would you ideally like to have?,,1-2,3-4,5 or more!,36507,O,,sex/intimacy; preference
-q887,"Do you enjoy crude humor, dirty jokes, and the like?","Yes, and I often try to push the boundaries!","Usually, yes.","Not in most cases, no.",Absolutely not at all.,31593,O,,preference
-q35355,How open are you to trying new things in bed?,Very open. I'll try anything once.,"I'm open, but I don't get too crazy.","Hesitant, but it might happen.",Not at all.,40231,O,,sex/intimacy
-q34517,"Do you enjoy dark, violent, or disturbing music?",Yes,No,When I'm in the mood.,Unsure,25250,O,"1, 3, 4, 2",descriptive; preference
-q33602,"Do you attempt to conserve water, energy or other resources during your everyday life?","Yes, almost always",Sometimes,"No, I don't care","No, it's my right to waste as much as I want",29187,O,,descriptive; preference
-q31983,Star Wars or Star Trek?,Star Wars,Star Trek,I can't decide.,Neither!,26787,M,"2, 3, 1, [4]",preference
-q265,Who do you think was smartest on this list?,Einstein,Shakespeare,Mozart,Jesus,29398,N,,opinion
-q218,Should prostitution be legal?,"Yes, absolutely","Yes, only if it were regulated",I don't think so,ABSOLUTELY NOT,25694,O,,politics; religion/superstition
-q25734,What is the farthest you have/would go in a game of strip poker?,Underwear,Topless,All the way,Wouldn't even be playing.,23523,O,"4, 1, 2, 3",preference; descriptive
-q25561,Does it bother you when people say 'PIN number' or 'ATM machine'?,Yes!,"Well, a little","Nope, but I see why you're asking",Why would it?,27944,O,,preference; cognitive
-q25114,Which event sounds most appealing?,Sci-Fi Convention,Political Convention,Music Festival,New Years Eve in Times Square,31558,N,,preference; opinion
-q24684,Do you carry condoms?,Always,Sometimes,Rarely,Never,27680,O,,sex/intimacy; descriptive
-q24375,"Say you've started seeing someone you really like. As far as you're concerned, how long will it take before you have sex?",1-2 dates,3-5 dates,6 or more dates,Only after the wedding,51072,O,,sex/intimacy; religion/superstition; preference
-q24345,How much can intelligence turn you on?,A lot!,A bit.,Intelligence does nothing for me either way.,Intelligence turns me off.,48225,O,,preference; cognitive
-q23993,"In terms of sex, how experienced would your ideal mate be (with people other than you)?",Innocent (Virgin),Slightly Experienced,Moderately Experienced,Very Experienced,34518,O,,sex/intimacy
-q23954,Do you ever feel the need to get really drunk?,Often,Sometimes,Rarely,Never,25432,O,,descriptive
-q23696,"When you are angry or frustrated, do you ever throw, smash, kick, hit inanimate objects (non-living things)?","Yes, frequently",Sometimes,"Used to, but not any more",Never,33272,O,,descriptive
-q23618,How important is it to you to have your own unique 'thing' (like a weekly Girls' Night Out or Guys' Movie Night) that you don't share with your partner(s)?,Very - I need some ME time to be happy,Sort of - I need friends outside of my partner,Not much - I like sharing stuff with my partner,I'd prefer not to have exclusive things,25612,O,,preference
-q23543,"Is it a requirement that you communicate every day with your significant other (via phone, text, in person, whatever)?","Yes, no matter what","Yes, unless otherwise specified","No, it's not necessary","No, I'd prefer not to communicate daily",48633,O,,preference
-q23389,You're out on the street and you encounter some people speaking a foreign language. What's your reaction?,"You're in our country, speak our language!",No big deal.,"Cool, what language are they speaking?","(in their language) Hi, how are you?",23050,O,,preference
-q41,How important is religion/God in your life?,Extremely important,Somewhat important,Not very important,Not at all important,54140,O,,religion/superstition
+q61281,How often do you 'take it out' on other people when you're having a bad day?,Always.,Frequently.,Occasionally.,Never.,31203,O,,descriptive
+q665,Are you fetish-friendly?,Bring out the toys!,"Never tried it, but I'm open-minded.",Not sure/don't know what they really are.,Ew!,27406,O,,sex/intimacy
+q44354,Do you enjoy long camping trips? (longer than 3 nights),I don't like to camp.,"I've never camped, but would like to.","I like to camp, but not long trips.",I love long camping trips.,27526,O,,preference
+q46780,Do you leave the lights on after leaving a room when they are no longer necessary?,Always - I don't think about turning lights off.,Usually - This isn't very important.,Sometimes - I try to save energy but do forget.,Rarely or never - That would be wasteful.,27123,O,,descriptive
+q53299,Which type of education would you prefer for your children?,Public.,Private.,Religious.,Home.,25113,N,,religion/superstition; preference
+q39373,How often do you do things out of spite?,Very often.,Sometimes.,Rarely.,Never.,31964,O,,descriptive
+q41099,"Right this minute, how clean is your main personal bathroom, (say the one you use every morning when you wake up in your own bed)?","Spotless, shiny, germ-free, clean clean clean.",Clean-ish but could use a quick touch-up.,"Not awful, but it could use a good cleaning.",Disgusting! even I cringe when I have to use it!,27184,O,,descriptive
+q42120,"Are you a 'double dipper'?  In other words, do you ever take a bite of food and then dip it back into a shared sauce or dip?","Yes, I double dip indiscriminately.","Yes, but only with family or close friends.","Yes, but only with a partner.","No, never.",22928,O,,descriptive
+q42918,What volume level do you usually prefer when listening to music?,Loud or louder.,Somewhere in the middle.,Soft and in the background.,I prefer to not listen to music.,24644,O,,preference
 q77,How frequently do you drink alcohol?,Very often,Sometimes,Rarely,Never,52467,O,,descriptive
+q79,What's your relationship with marijuana?,I smoke regularly.,I smoke occasionally.,"I smoked in the past, but no longer.",Never.,49796,O,,descriptive
+q80,What's your deal with harder drugs (stuff beyond pot)?,I do drugs regularly.,I do drugs occasionally.,"I've done drugs in the past, but no longer.",I never do drugs.,50107,O,,descriptive
+q81,How much do you go 'clubbing' (out dancing in bars)?,Lots,Sometimes,Rarely,Never,31984,O,,descriptive
+q41,How important is religion/God in your life?,Extremely important,Somewhat important,Not very important,Not at all important,54140,O,,religion/superstition
+q11,How does the idea of being slapped hard in the face during sex make you feel?,Horrified,Aroused,Nostalgic,Indifferent,28860,N,,sex/intimacy
+q48953,"If you were visiting a new city, where would you be most excited to go?",Tourist attractions or entertainment venues.,Historically or culturally important places.,Places popular with the locals.,Home.,30729,N,,preference
+q48981,Consider the recent fictional movies you have watched.  Which of the following aspects do you find most disturbing?,Sex.,Violence.,Racial or cultural stereotyping.,None of the above disturbs me.,26709,N,,opinion
+q49053,What was the duration of your longest romantic relationship?,More than five years.,One to five years.,Less than one year.,I've never been in a romantic relationship.,25779,O,,descriptive
+q49107,Which of the following would you rather discuss with someone you just met?,Musical preferences.,Political beliefs.,Philosophical beliefs.,Sports.,29721,O,,preference
+q49920,How spicy do you like your spicy food?,I like it extremely spicy.,I like it hot.,I like it a little spicy.,I prefer it be mild.,23697,O,,preference
+q50352,"If you were going away for two weeks, how far in advance would you start packing?",I would pack at least two days before I leave.,I would pack on the day before I leave.,I would pack on the same day I leave.,I would not pack at all.,22873,O,,descriptive
+q45428,Do you say 'Thank you' to wait staff when served in a restaurant?,Always.,Most of the time.,Occasionally.,Never.,36781,O,,descriptive
+q45835,Which is your favorite weather?,Sun,Rain,Snow,Cloudy,24105,N,,preference
+q43261,How much influence or control do your parents have over your life?,I am my own person.,I consider their opinion but go my own way.,I almost always do what my parents think is best.,I always do what my parents say.,44620,O,,descriptive
+q44384,Which best represents your opinion of same-sex relationships?,"Girl-on-girl is okay, but guy-on-guy is wrong.","Guy-on-guy is okay, but girl-on-girl is wrong.",All same-sex relationships are wrong.,It's all fine by me.,28836,O,"4, (1, 2), 3",politics
+q44595,Tattoos on a woman's lower back area:,Sexy,Okay,Tramp stamps,Something I have no opinion on,27939,N,,preference; opinion
+q41953,About how long do you want your next relationship to last?,One night,A few months to a year,Several years,The rest of my life,48614,O,,preference
+q38223,Do you like to go clubbing?,"Yes, I prefer to go alone.","Yes, I prefer to go with a date.","Yes, I prefer to go with friends.",No.  I do not like to go clubbing.,27207,N,,preference
+q38423,What do you usually wear when you sleep?,Pajamas.,Underwear.,Nothing.,Something else.,26417,M,[4],descriptive
+q38912,How do you feel about germs?,Obsessed: I bleach anything I can't trust!,Careful: I wash my hands and cover my sneezes.,Polite: I always wash up when someone's watching.,Unconcerned: I don't actively lick doorknobs.,24415,O,,descriptive
+q35862,"When you are sleeping, do you prefer:",A cold room,A cool room,A warm room,A hot room,29945,O,,preference
+q35955,How would you feel if your significant other made more money than you?,Very comfortable,Somewhat comfortable,Somewhat uncomfortable,Very uncomfortable,24997,O,,descriptive
+q36045,Are you ready to settle down and get married right now?,Absolutely.,No way.,"Get married yes, settle down no.","Get married no, settle down yes.",35186,O,"2, (3, 4), 1",descriptive
+q36666,"Of these four educational subject areas, which is your favorite?",Language,Mathematics,Science,History,23021,N,,descriptive; cognitive
+q37693,"Would you be willing to date someone who plays video games almost every day, for at least 2 hours?","Yes, I'd be playing with them.","Yes, but I would not play that much.","Yes, but I don't like video games.",No.,36165,O,,preference; descriptive
+q34113,"How do you feel about government-subsidized food programs (free lunch, food stamps, etc.)?",No problem,"It's okay, if it is not abused",Okay for short amounts of time,Never - Get a job,31769,O,,politics
+q35415,"How would you feel if a significant other forgot your birthday, nameday, anniversary, or something else similarly important to you?",Indifferent.,Disappointed.,Annoyed.,Angry.,23380,N,,descriptive
+q35475,"When in a relationship, what importance do you place upon celebrating weekly or monthly anniversaries?",High.,Moderate.,Low.,None.,28563,O,,preference
+q35520,"Does netspeak (e.g., afk, brb, How RU?, lol, rotfl, ttyl, etc.) bother you?",Yes.,No.,Some of the time - It depends.,I don't know.,25830,O,"2, (3, 4), 1",descriptive
+q35660,How often are you open with your feelings?,Always,Usually,Rarely,Never,49489,O,,descriptive
+q60145,Are you still in love with one or more of your former partners?,Yes - One of them.,Yes - More than one.,No.,No - I've never been in love with a partner.,24232,O,"2, 1, 3, 4",descriptive
+q60308,"Say you're with someone you really care about, and they reveal their deepest, darkest secret. Which of the following would be most likely to scare you away?",A sexual fetish.,A bad temper.,A mild mental illness.,A history of bad credit.,26488,N,,preference; descriptive
+q60901,"If you were really, really drunk, which of the following would you be more likely to do?",Kiss someone.,Hit someone.,Complain to someone.,I'm not sure / I've never been really drunk.,28506,N,,descriptive
+q57718,"Immediately after having sex with a partner, which of the following sounds most appealing?",Cuddling with them.,Doing my own thing.,Sleeping.,Masturbating or having sex again.,23153,N,,sex/intimacy
+q53965,"If you discovered a spider on the wall in your bedroom, which would you do?",Ignore it.,Kill it.,Catch it and put it outside.,Find someone else to deal with it.,30959,N,,descriptive
+q54127,Do you ever not feel like having sex because you feel too unattractive or too unappealing?,"Yes, frequently.","Yes, sometimes.","Yes, but only rarely.","No, never.",26208,O,,descriptive
+q55185,"In terms of birth order, which are you?",The oldest child.,The youngest child.,Somewhere in the middle.,All of the above.,23076,M,[4],descriptive
+q50564,Have your sexual interests become kinkier as you've grown older?,Yes.,"No, they haven't changed much.","No, just the opposite.","No, I have no sexual interests.",26137,M,[4],sex/intimacy
+q52682,"If one of your potential matches were overweight, would that be a dealbreaker?","Yes, even if they were slightly overweight.","Yes, but only if they were obese.",No.,"No, in fact I prefer overweight people.",40495,O,,preference
+q52728,Which of these four is sexiest?,Someone who is good with language(s).,Someone who is logical or mathematical.,Someone who is physically skilled.,Someone who is musically skilled.,28519,N,,preference; opinion
+q52827,Would you consider connecting with someone whose relationship status is 'seeing someone' or 'married'?,Yes to both,No to both,Yes to 'seeing someone' only,Yes to 'married' only,25032,O,"2, (3, 4), 1",preference
+q31898,How do you feel about zoos?,I think they're lots of fun!,"Sure, they're fine.","Those poor, locked-up animals!",Zoos are boring.,24073,O,,preference; opinion
+q31920,How do you feel about age differences in relationships?,I prefer someone close to my own age,I prefer someone older,I prefer someone younger,Doesn't matter to me,33749,M,"2, 1, 3, [4]",preference
+q32855,Underarms can be a hairy subject. How do you maintain your pits?,"I let it grow, wild & free!",Occasionally I'll trim.,I shave consistently.,Whatever I feel like at the time.,27844,O,,descriptive
+q32973,Are you an adventurous eater? Do you like to try new foods and ethnic cuisines?,"Yes, all the time.","Yes, if it's not too strange.",On rare occasions/I don't know.,"No, yuck.",33661,O,,descriptive
+q33170,"If/when you have NO pressing obligations (employment, schooling, children, errands, bedtime, or other factors aside), at what time do you prefer to get up in the morning?",Early bird gets the worm! I'm up before the sun!,Pretty Early (6:00ish - 9:30ish AM),I like to sleep in a bit. (9:30ish AM - Noonish),Morning? Curse that AM light! (afternoon or dark),27163,O,,descriptive
+q30416,'Your a bitch!' What bothers you more about the above sentence?,The profanity,The grammar,They both bother me equally,Neither one bothers me,32676,O,"3, (1, 2), 4",descriptive
+q30830,"Would you do something outrageous, stupid or adventurous simply because it would make a good story to tell later? (Assume there would be no serious consequences to your actions.)","Yes, whenever possible.","Yes, but nothing too crazy.","Maybe, depends on what and who with.","No, and please don't run with scissors.",26945,O,,preference; descriptive
+q31374,"Have you ever tried any sexual roleplaying, such as student/teacher or patient/nurse?",All the time. It really turns me on!,"Yes, on occasion. I have to be in the mood.","No, but it sounds interesting.","No, and it isn't going to happen. Ever.",29214,O,,sex/intimacy
+q31821,Do you think the government should limit big chain stores to give small businesses a chance?,Yes,No,Maybe,Don't know/Don't care,24984,O,"2, (3, 4), 1",politics
+q31840,I prefer to sleep:,Alone,"With my partner, but apart (not touching)",Touching my partner,Embracing / cuddling my partner,39117,O,,sex/intimacy
+q29384,Would you allow your partner to kiss you after performing oral sex on you?,Allow? I enjoy it.,Yes.,No.,It depends.,34342,O,,sex/intimacy
+q29389,I talk about my previous relationships:,All the time,Occasionally,"Almost never, unless explicitly asked about them.","Never, even if explicitly asked about them.",26617,O,,descriptive
+q29815,What do you think of reality television?,I love it!,It's alright.,I dislike it.,I have no opinion on reality television,23291,O,"3, 4, 2, 1",preference
+q29829,How often do you keep your promises?,Always,Whenever possible,Usually,When convenient,49564,O,,descriptive
+q30169,Do you enjoy giving oral sex?,Love it!,It's okay.,Not so much.,Gross!,33482,O,,sex/intimacy
+q30384,How often do you wash your dishes?,As I use them.,Daily.,When I run out of clean utensils.,When the sink starts to smell funny.,28082,O,,descriptive
+q28545,"When having sex, do you like to have your hair pulled?","Yes, and hard!","Yes, but gently.",No way.,Don't know / Not sure.,28751,O,"3, 4, 2, 1",sex/intimacy
+q29055,How do you feel about living with a signficant other before marriage?,Nothing wrong with that.,"Maybe, depending on the situation.",I'm against that.,I'm not sure.,24121,O,"3, (2, 4), 1",religion/superstition; opinion
+q82528,"If you had your own private hot tub, would you go nude in it?","Yes, always.","Yes, but only when alone or with someone special.","Yes, but only when alone.","No, never.",27318,O,,descriptive
+q83184,"If your partner made a lot of noise while enjoying sex, would this be a turn-on or turn-off for you?",Turn on.,Turn off.,"Either, depending upon how they sound.",It would make no difference.,28472,O,"2, (3, 4), 1",sex/intimacy
+q83480,Which pubic hair style do you prefer for a partner?,Natural.,Neatly trimmed.,Completely shaven.,It doesn't matter.,30719,M,[4],preference
+q70302,"Of the following, which do you spend the most time doing while taking a bath or shower?",Washing and/or conditioning.,Shaving.,Relaxing.,Masturbating.,24254,N,,descriptive
+q71315,Do you like to leave music on while you sleep?,Yes.  I can't sleep without it.,"Yes, but I don't need it to fall asleep.","No, but I can deal with it if my partner does.",No.  I can't sleep with music on.,26815,O,,descriptive
+q75677,Which of the following character flaws would you be LEAST tolerant of in a potential partner?,Moodiness.,Dependency.,Jealousy.,Apathy.,28404,N,,descriptive; preference
+q79635,How would you feel if someone called you 'good girl' or 'good boy' during sex?,Positive.,Negative.,Indifferent.,It would depend on which of the two I was called.,23812,O,"2, (3, 4), 1",sex/intimacy
+q66548,Which is closest to your reaction to foul language?,It doesn't bother me at all.,It's ok as long as it isn't every other word.,It bothers me a little.,It bothers me a lot.,36039,O,,preference
+q66827,"During a romantic evening at your significant others' house, he or she puts on a slow song and asks you to dance. How would you respond?",Very romantic! I'm up for it!,"I think its corny, but I'll do it anyway!",Not my kinda thing.,I'm not sure.,28504,O,"3, 4, 2, 1",preference
+q67641,How important to you is being with family during holidays?,Very important.,Somewhat important.,Not important.,I have no family.,30745,M,[4],descriptive
+q63068,Approximately how many hours per week do you dedicate to spiritual activity?,Zero.,One hour or less.,One to four hours.,More than four hours.,23133,O,,religion/superstition
+q63114,How do you think your sex drive compares to what is typical for other people of your age and gender?,My sex drive is higher than average.,My sex drive is about average.,My sex drive is below average.,I'm insatiable.,38203,O,"4, 1, 2, 3",sex/intimacy
+q64334,Imagine that your partner does not enjoy performing oral sex and refuses to ever perform it on you. How disappointed would you be?,Extremely disappointed.,Somewhat disappointed.,Slightly disappointed.,Not at all disappointed.,26159,O,,sex/intimacy
+q26573,Do you like going to poetry readings?,Yes,Sometimes,Occasionally / I'd try it,No,29254,O,,preference
+q26720,How much do you spend per year for shoes?,Less than $100,$101 - $ 500,$501- $1000,More than a $1000,28570,O,,descriptive
+q25114,Which event sounds most appealing?,Sci-Fi Convention,Political Convention,Music Festival,New Years Eve in Times Square,31558,N,,preference; opinion
+q25561,Does it bother you when people say 'PIN number' or 'ATM machine'?,Yes!,"Well, a little","Nope, but I see why you're asking",Why would it?,27944,O,,preference; cognitive
+q25734,What is the farthest you have/would go in a game of strip poker?,Underwear,Topless,All the way,Wouldn't even be playing.,23523,O,"4, 1, 2, 3",preference; descriptive
+q26299,"What haircolor, or shade, do you prefer?","Dark (Black, Brown, Auburn)","Light (Blonde, Light Brown, Red)","Other (Neon, Obviously Dyed)",I have no preference,27402,N,,preference
+q26405,Is it easy for you to achieve orgasm?,"Yes, with skill and sometimes patience","Yes, any time the wind picks up","No, and I find it somewhat frustrating","No, but don't worry, I'm enjoying myself",27131,O,,sex/intimacy; descriptive
+q23993,"In terms of sex, how experienced would your ideal mate be (with people other than you)?",Innocent (Virgin),Slightly Experienced,Moderately Experienced,Very Experienced,34518,O,,sex/intimacy
+q24345,How much can intelligence turn you on?,A lot!,A bit.,Intelligence does nothing for me either way.,Intelligence turns me off.,48225,O,,preference; cognitive
+q24375,"Say you've started seeing someone you really like. As far as you're concerned, how long will it take before you have sex?",1-2 dates,3-5 dates,6 or more dates,Only after the wedding,51072,O,,sex/intimacy; religion/superstition; preference
+q24684,Do you carry condoms?,Always,Sometimes,Rarely,Never,27680,O,,sex/intimacy; descriptive
+q23305,How many countries have you visited?,I have never left the country I live in now.,Between 2 and 5 countries.,Between 6 and 10 countries.,More than 10 countries.,24592,O,,descriptive
+q23389,You're out on the street and you encounter some people speaking a foreign language. What's your reaction?,"You're in our country, speak our language!",No big deal.,"Cool, what language are they speaking?","(in their language) Hi, how are you?",23050,O,,preference
+q23543,"Is it a requirement that you communicate every day with your significant other (via phone, text, in person, whatever)?","Yes, no matter what","Yes, unless otherwise specified","No, it's not necessary","No, I'd prefer not to communicate daily",48633,O,,preference
+q23618,How important is it to you to have your own unique 'thing' (like a weekly Girls' Night Out or Guys' Movie Night) that you don't share with your partner(s)?,Very - I need some ME time to be happy,Sort of - I need friends outside of my partner,Not much - I like sharing stuff with my partner,I'd prefer not to have exclusive things,25612,O,,preference
+q23696,"When you are angry or frustrated, do you ever throw, smash, kick, hit inanimate objects (non-living things)?","Yes, frequently",Sometimes,"Used to, but not any more",Never,33272,O,,descriptive
+q23954,Do you ever feel the need to get really drunk?,Often,Sometimes,Rarely,Never,25432,O,,descriptive
+q1062,How frequently do you bathe or shower?,At least once a day.,Usually daily.  I skip some.,A couple times a week.,Once a week or less.,41649,O,,descriptive
+q212813,Which best describes your political beliefs?,Liberal / Left-wing,Centrist,Conservative / Right-wing,Other,45107,M,[4],politics; descriptive
+q212814,How important are your political beliefs to you?,Very important,Somewhat important,A little important,Not at all important,44143,O,,descriptive
+q221105,How often do you use Facebook?,I'm a very active user.,I'm a somewhat active user.,I rarely use it.,I never use it.,45978,O,,descriptive; technology
+q221106,How often do you tweet?,All the time,Sometimes,Rarely,Never,42923,O,,descriptive; technology
+q321556,How often do you masturbate?,Once a day or more,A few times a week,A few times a month,A few times a year or less,28276,O,,sex/intimacy
+q86909,Are you generally able to forgive and forget?,Yes.,No.,It really depends on the circumstances.,"I can forgive, but I never forget.",28762,O,"2, (3, 4), 1",descriptive
+q85823,How much would you dress up for a first date with someone you met on OkCupid?,I'd go all out.,I'd try to look nice.,I wouldn't wear anything special.,"It would vary, depending upon their profile.",25050,M,[4],descriptive
+q86417,How long can you go without sexual release?,A day or less.,"More than a day, less than a week.",More than a week.,I have never had sexual release.,28829,O,,sex/intimacy; descriptive
+q22125,Do you prefer?,Slim Men/Women,Average Men/Women,Fuller Figured Men/Women,I Don't Care/Not Fussy,25779,M,[4],preference
+q22496,Board games?,What are board games?,"I love boardgames, let's go play.","Boardgames are okay, I guess.",I'd rather do something else.,23647,O,"2, 3, 4, 1",preference
+q22534,Would you ideally like to be married within the next 3 years?,Yes,No,Possibly,I'm already married,24139,M,"2, 3, 1, [4]",preference
+q23120,Which is most important to you in determining attractiveness?,Chest/Breasts,Butt/Legs,Face/Smile,Other,23911,N,,preference
+q23132,Do you like to play drinking games?,"Yes, they're totally sweet!","No, I think they're cheesy/lame","Not really, but I will on occasion","No, I don't drink",28277,M,"2, 3, 1, [4]",preference
+q23147,Imagine you're having the perfect conversation with your ideal partner.  What are you doing?,Telling stories,Debating,Agreeing,Making plans,29873,N,,preference
+q23293,"If you had to pick one of the following types of people for a significant other, which would it be?",Wholesome,A little on the slutty side,Crazy and colorful,Dark and mysterious,30939,N,,preference
+q21411,"Do you enjoy intellectual debates on topics like politics, religion, science or philosophy?",I love to argue!,Sometimes.,It's usually boring or annoying.,I'm not smart enough.,34498,M,[4],preference; cognitive
+q21754,What is your opinion concerning strip clubs?,I would be there every day of the week if I could.,They can be fun every once and a while.,I do not really have an opinion/never been to one.,They're gross/disgusting/insulting/other.,28674,O,,preference; opinion
+q21793,"How often do you try new things (food, activities, music, whatever) that you've never tried before?","Several times per week, or more.",Several times per month.,Several times per year.,Rarely or never.,28351,O,,descriptive
+q21986,"Do you typically speak and write in a clear, precise manner?","Yes, almost always.","Yes, but only for classes/work.",It depends on my mood.,"Ha, my language is vague and messy.",24824,O,,descriptive
+q22021,Is your ideal match well-off financially (or at the very least someone who has high income potential)?,"Yes, it's very important.",It's somewhat important.,It's not very important,It's not important at all.,33917,O,,preference
+q22122,How long would you have to talk to someone online before you felt comfortable to meet?,I'd meet right away if their profile were cool,A few days,A few weeks,A few months [or never],34086,O,,preference
+q20519,In a relationship I like to discuss politics with my partner.,All the time!,Sure. I'm interested in sharing our beliefs.,Sometimes. It depends.,Hardly. Politics are boring or personal.,40256,O,,politics; preference
+q20818,"Once you take a moral position, can anything be said or done to change your mind?","Yes, life is a big gray area anyway.","No, some things are just Right or Wrong.",Maybe. It depends on the issue.,"Maybe, but it would take a lot.",28211,O,"2, (3, 4), 1",politics; religion/superstition; descriptive
+q20889,What's your opinion of the phrase 'making love' when it refers to sex?,It's beautiful.,It's hokey and overly sentimental.,It refers to a very specific kind of sex.,It's no better or worse than any other.,36901,N,,opinion
+q20930,Rate your self-confidence:,"Very, very high",Higher than average,Average,Below average,53737,O,,descriptive
+q20976,You're in a new relationship and your partner admits that they have had 14 sexual partners. Does that sound like a lot to you?,"Yes, and it makes me uncomfortable.","I guess, but It doesn't change how I feel.",That seems like an average number.,"No, that's nothing.",34627,O,,opinion
+q20135,How do you feel about falling in love?,I love it and want it very much,I try to avoid it,I like to just let it happen,I'm indifferent / not sure,44683,O,"2, (3, 4), 1",sex/intimacy; preference
+q20212,Do you feel guilty or bad after having sex?,Always,Sometimes,Never,I'm still a virgin.,30735,M,[4],sex/intimacy; religion/superstition; descriptive
+q19378,How are you most likely to show your partner you care?,Words: Tell them how much you appreciate them,Actions: Do something nice (like a date or errand),"Gifts: Buy them flowers, jewelery or a new gadget","Touch: Give them a hug, massage or kiss",40178,N,,sex/intimacy; preference; descriptive
+q19874,How long do your romantic relationships usually last?,0-6 months,6-12 months,12+ months,I've never been in a relationship,40948,M,[4],descriptive
+q18763,Do you consider yourself to be an honorable person?,"Yes, I always try to do the right thing.","Sometimes, it depends on the situation.","No, not really.","Are you kidding? I lie, cheat , AND steal.",23284,O,,descriptive
+q18834,"If you had to name your greatest motivation in life thus far, what would it be?",Love,Wealth,Expression,Knowledge,46158,N,,descriptive
+q18875,How important is it to you that your partner smell good?,Very damn important,Important-ish,Less important than you think,I just don't care at all,43478,O,,preference
+q18966,Do you prefer hardcore or softcore when it comes to your porn?,Hard!,Soft!,Both!,I don't like porn,24917,M,"2, 3, 1, [4]",sex/intimacy; preference
+q17582,How are your teeth?,Perfect,Okay,Kinda Scraggly,Fucked Up,23548,O,,descriptive
+q18212,How much do you usually tip a server who did a fine job?,Around 10% or less,10-15%,15-20%,Over 20%,28793,O,,descriptive; preference
+q18609,Can you cook?,"Yes, I'm a culinary genius.","Yes, with a cook book.","No, but I try.","No, there's always fast food.",30481,O,,descriptive
+q17778,Are you a beer snob?,Yes,No,"Not usually, but some beers I won't touch.",I don't drink.,25582,M,"2, 3, 1, [4]",descriptive
+q18797,"Would you - for any reason - read your mate's email or pose as him/her online, without his/her knowledge and permission?","Yes, they shouldn't be keeping secrets anyway.","Yes, I'd be too curious not to.",Only if I suspected them of something.,"No, I'd trust them and that would be invasive.",38006,O,,preference
+q18979,"If you found out your partner was cheating on you, would you cheat on them in revenge?","Yes, they have it coming!","No, I'd confront them.","No, I'd dump them on the spot.","Maybe, if one of their friends is cute.",28233,O,"3, 2, 4, 1",sex/intimacy; preference
+q19125,Are you concerned with your image and the way others perceive you?,Very Much So,"Often, yes",A little bit,Not at all / I hate the mainstream,23440,O,,descriptive
+q1588,Do you like cats?  Would you consider owning a cat as a pet?,"Yes, I would love (or do own) a cat.","I'm not too into them, but I wouldn't mind one.","No, I dislike cats.","I like them, but I'm allergic.",30160,N,,preference; descriptive
+q17342,"On a typical night, what time do you go to sleep?",By 9pm,By 11pm,By 1am,Later,24309,O,,descriptive
+q13136,How important is art in your daily life?,Very Important,Somewhat Important,Not Important,I don't care,24839,M,[4],preference; descriptive
+q15418,"In your current music collection, do you have more independent artists or big name superstars?",Independent,Big name superstars,A mix of both,I don't have a music collection,24157,M,"2, 3, 1, [4]",descriptive
+q15698,How do you feel about kids?,Kids are precious - they love me and I love them!,"They're okay, but keep the unruly ones at bay.","God, how revolting. *shudder*",I'm indifferent.,39676,O,"3, (2, 4), 1",preference
+q15742,How much do other people's opinions of you influence your decisions?,A lot,Some,Very little,Not at all,28241,O,,descriptive
+q15743,How do you feel about people with past addictions?,Completely uninterested,Extremely hesitant,A little hesitant,Totally fine,25710,O,,preference
+q15752,How important is voting to you?,Extremely important,Very important,Not so important,Not at all important,31818,O,,politics
+q15030,Which would you prefer your ideal match to be more into?,Sports,Books,Music,Movies,35747,N,,preference
+q12605,"Once you're intimate, how often would you and your significant other have sex?",Every day,About every other day,Once or twice a week,A few times a month or less,46098,O,,sex/intimacy
+q12970,How often do you brush your teeth?,Twice or more a day,Once a day,Only on days I feel like it,Rarely / never,47673,O,,descriptive
+q13032,Would you ever consider dating a Catholic?,Yes,"Hesistant, but willing",No,Only if he/she was non-practicing,25643,O,"3, 4, 2, 1",religion/superstition; preference
+q8865,Are you currently employed?,"Yes, I have a fulltime job",No,Part time,I'm a student,31950,M,"2, 3, 1, [4]",descriptive
+q12503,"How often should your significant other buy you gifts, jewelry, or other things more expensive than, say, dinner, cards, or flowers?",Very frequently.,From time to time.,"On special occasions (birthdays, Christmas, etc.).",Never.,27820,O,,preference
+q6722,Which best describes your personal feelings about sports?,Sports are a very important part of my life.,I play or watch sports often.,I play or watch sports occasionally.,I don't watch or play sports.,28517,M,[1],preference; descriptive
+q7239,What is the worst personality trait someone can have?,Arrogance,Being boring,Immaturity,No sense of humor,25390,N,,opinion
+q8155,"On average, which best describes how often you GET WICKED DRUNK?",Twice a week or more,Weekly / Bi-Weekly,Once every month or three.,Seldom or never.,38298,O,,descriptive
+q6350,How would you describe your body?,Slender,Average,Athletic,Voluptuous,30529,N,,descriptive
+q1712,How shy would you say you are?,Very shy,Kind of shy,Not really shy,Not at all shy,28992,O,,descriptive
+q1185,"In a serious relationship, do you feel it's important to keep your significant other informed of the details of your day-to-day life?",Yes,No,Some,I don't do serious relationships,36121,M,"2, 3, 1, [4]",sex/intimacy; preference; opinion
+q1401,Have you ever had a sexual encounter with someone of the same sex?,"Yes, and I enjoyed myself.","Yes, and I did not enjoy myself.","No, and I would never.","No, but I would like to.",41622,O,"3, 4, 2, 1",sex/intimacy; descriptive
+q1122,How often do you use profane language?,Never,Once in a while,Often,Almost always,26641,O,,descriptive
+q1128,Would you date someone who was already in a committed relationship with someone else?,"Yes, even in secret.","Yes, but only if everybody knew.","No, but I don't think it's inherently wrong.","No, it's wrong.",34032,N,,sex/intimacy; preference
+q997,Are you a cat person or a dog person?,Cats,Dogs,Both,Neither,54746,N,,preference
+q1028,Is your ideal sex rough or gentle?,Rough,Gentle,I enjoy both equally,I'm a virgin,37097,M,"2, 3, 1, [4]",sex/intimacy
+q887,"Do you enjoy crude humor, dirty jokes, and the like?","Yes, and I often try to push the boundaries!","Usually, yes.","Not in most cases, no.",Absolutely not at all.,31593,O,,preference
+q979,How many children would you ideally like to have?,,1-2,3-4,5 or more!,36507,O,,sex/intimacy; preference
+q542,Roughly how many books have you read in the past year?,Less than five,Between five and fifteen,Between sixteen and fifty,Fifty or more,25710,O,,descriptive
+q31983,Star Wars or Star Trek?,Star Wars,Star Trek,I can't decide.,Neither!,26787,M,"2, 3, 1, [4]",preference
+q33602,"Do you attempt to conserve water, energy or other resources during your everyday life?","Yes, almost always",Sometimes,"No, I don't care","No, it's my right to waste as much as I want",29187,O,,descriptive; preference
+q34517,"Do you enjoy dark, violent, or disturbing music?",Yes,No,When I'm in the mood.,Unsure,25250,O,"1, 3, 4, 2",descriptive; preference
+q35355,How open are you to trying new things in bed?,Very open. I'll try anything once.,"I'm open, but I don't get too crazy.","Hesitant, but it might happen.",Not at all.,40231,O,,sex/intimacy
+q28754,How long do you believe people need to be in a relationship before before getting married?,At least 2 years,At least 1 year,At least 6 months,Less than 6 months / no requirement,27565,O,,opinion
+q30207,Is love overrated?,"Yes, absolutely.","Yes, a bit.","No, it's fine.","No, it's underrated.",29060,O,,opinion
+q30723,Which is the greatest compliment you could receive?,That you are beautiful/sexy/hot,That you are intelligent,That you are talented,That you are extremely fun to be with,25230,N,,preference; descriptive
+q21488,Do you pick up after yourself? Be honest.,Always.,"Yeah, when I have the time.","No, I live in filth.","No, my mom/roommate/partner mostly does it for me.",30108,O,"(3, 4), 2, 1",descriptive
+q274,What's the highest level of education you've completed?,Graduate School,College,High School,Junior High,31706,O,,descriptive
+q218,Should prostitution be legal?,"Yes, absolutely","Yes, only if it were regulated",I don't think so,ABSOLUTELY NOT,25694,O,,politics; religion/superstition
+q265,Who do you think was smartest on this list?,Einstein,Shakespeare,Mozart,Jesus,29398,N,,opinion
