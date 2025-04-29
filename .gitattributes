@@ -5,3 +5,8 @@ outputs/lora_loss.pdf filter=lfs diff=lfs merge=lfs -text
 outputs/ae_loss.pdf filter=lfs diff=lfs merge=lfs -text
 outputs/compare_loss.pdf filter=lfs diff=lfs merge=lfs -text
 outputs/imputed_lora.npy filter=lfs diff=lfs merge=lfs -text
+outputs/imputed_lora_indicators_original.npy filter=lfs diff=lfs merge=lfs -text
+outputs/imputed_lora_indicators_religion.npy filter=lfs diff=lfs merge=lfs -text
+outputs/imputed_lora_religion.npy filter=lfs diff=lfs merge=lfs -text
+outputs/imputed_with_original.npy filter=lfs diff=lfs merge=lfs -text
+outputs/question_subset.feather filter=lfs diff=lfs merge=lfs -text

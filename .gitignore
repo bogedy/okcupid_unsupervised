@@ -2,3 +2,8 @@
 data/.DS_Store
 data/user_data_public.7z
 data/user_data_public.csv
+Miniconda3-latest-Linux-x86_64.sh
+.ipynb_checkpoints/
+.Trash-1000/
+notebooks/.ipynb_checkpoints/
+rapidsai-csp-utils/
