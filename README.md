@@ -4,6 +4,7 @@ Analysis of the large OkCupid dataset from Kirkegaard and Bjerrekær.
 
 <img src="outputs/readme.png" alt="Alt Text" width="600" height="500" />
 
+Write-up here https://www.overleaf.com/read/yhpmwqsydbvs#4e3fbe
 
 ## Prerequisites
 - **Git LFS**: This repository uses Git Large File Storage (LFS) to manage large `.npy` files. You must install Git LFS before cloning the repository.  
