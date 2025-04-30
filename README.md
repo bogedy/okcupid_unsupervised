@@ -9,7 +9,6 @@ Analysis of the large OkCupid dataset from Kirkegaard and Bjerrekær.
 - **Git LFS**: This repository uses Git Large File Storage (LFS) to manage large `.npy` files. You must install Git LFS before cloning the repository.  
   Download and install it from [https://git-lfs.com/](https://git-lfs.com/).  
   After installation, run `git lfs install` in your terminal.
-- We ran `pip freeze > requirements.txt` and `conda env export > environment.yml`. These files can be used to reproduce the work from a clean environment. 
 
 ## Repository Structure
 - **`notebooks/`**: Contains Jupyter notebooks where exploratory work and analysis were performed.
@@ -20,5 +19,6 @@ Analysis of the large OkCupid dataset from Kirkegaard and Bjerrekær.
   - Note: Some `.npy` files were accidentally committed directly to the repo but are now tracked using Git LFS, making the repo a few GB in size.
 
 ## Dependencies
+- We ran `pip freeze > requirements.txt` and `conda env export > environment.yml`. These files can be used to set up the environment to run the scripts. 
 - The notebooks use the RAPIDS cuML library for GPU-accelerated machine learning.  
   - A `conda_setup` file is included with helpful commands for setting up the environment, but this is **not required** for running the scripts.
